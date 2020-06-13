@@ -1,0 +1,249 @@
+{
+    "version": "9.4.1",
+    "settingsVersion": "2.0",
+    "level": "Pro",
+    "dropoffRate": {
+        "radioID": "mediumDrop"
+    },
+    "stressPattern": {
+        "radioID": "randomStress"
+    },
+    "footDefinition": {
+        "radioID": "footDefinition2"
+    },
+    "feetBuildFrom": {
+        "radioID": "leftEdge"
+    },
+    "feetStressedOn": {
+        "radioID": "firstSyllable"
+    },
+    "mainStress": {
+        "radioID": "leftMost"
+    },
+    "representToneAs": {
+        "radioID": "letter"
+    },
+    "numberBase": {
+        "radioID": "numberBaseEither"
+    },
+    "wordOrder": {
+        "radioID": "randomWordOrder"
+    },
+    "adjectiveOrder": {
+        "radioID": "randomAdjOrder"
+    },
+    "forceAffixes": {
+        "radioID": "forceAffixesEither"
+    },
+    "customPhonemes": {
+        "value": "false"
+    },
+    "addRandomPhonemes": {
+        "value": "false"
+    },
+    "wordStructure": {
+        "value": "true"
+    },
+    "advancedWordStructure": {
+        "value": "false"
+    },
+    "syllableStructure": {
+        "value": "false"
+    },
+    "allowContrastiveStress": {
+        "value": "false"
+    },
+    "vowelProbabilities": {
+        "value": "false"
+    },
+    "vowelToneCheck": {
+        "value": "false"
+    },
+    "spellingCheck": {
+        "value": "true"
+    },
+    "spellingSensitiveToStress": {
+        "value": "false"
+    },
+    "addRandomSpellingRules": {
+        "value": "false"
+    },
+    "composeSpelling": {
+        "value": "false"
+    },
+    "hangul": {
+        "value": "false"
+    },
+    "removeAllSpelling": {
+        "value": "false"
+    },
+    "secondSpellingCheck": {
+        "value": "false"
+    },
+    "phonologicalChangesCheck": {
+        "value": "false"
+    },
+    "applyPhonologicalChanges": {
+        "value": "false"
+    },
+    "sqaureBracketChanges": {
+        "value": "false"
+    },
+    "addRandomPhonologicalRules": {
+        "value": "false"
+    },
+    "removeForwardslash": {
+        "value": "false"
+    },
+    "addRemoveWordsCheck": {
+        "value": "false"
+    },
+    "sciFiVocab": {
+        "value": "false"
+    },
+    "removeDefaultWords": {
+        "value": "false"
+    },
+    "removeTranslations": {
+        "value": "false"
+    },
+    "removeDefaultDerivedWords": {
+        "value": "false"
+    },
+    "POSmorphologyCheck": {
+        "value": "false"
+    },
+    "nounGenderCheck": {
+        "value": "false"
+    },
+    "grammarCheck": {
+        "value": "false"
+    },
+    "hidePhonologySection": {
+        "value": "false"
+    },
+    "expandEditor": {
+        "value": "false"
+    },
+    "banDoubleVowel": {
+        "value": "true"
+    },
+    "anglicize": {
+        "value": "true"
+    },
+    "removeDiphthongTiebar": {
+        "value": "true"
+    },
+    "displayDerivationalAffixes": {
+        "value": "true"
+    },
+    "pdfColumnBreak": {
+        "value": "true"
+    },
+    "customConsonants": {
+        "value": ""
+    },
+    "customVowels": {
+        "value": ""
+    },
+    "wordInitialConsonants": {
+        "value": "k s p d m v f t n l b pɾ ʁ ʒ ʃ g tɾ kw bɾ gɾ kɾ kl ʁj dw fl fɾ pl vj ʎ"
+    },
+    "midWordConsonants": {
+        "value": "t s ɾ m d z v k l n p ʃt g ɲ ɾt ʎ ʒ f b tɾ ʁ ʃp j sj ʃk jt st ɾj ɾd jɾ lt ɾm ʃtɾ jʃ pɾ lm ʃ ɾn ɾs bɾ wv ɾk ɾg vɾ gw gɾ ɲt pl wk wtɾ ɾv ʒm jʒ lg sp tʃ wp wt dj lv ɾʒ ʃkɾ dʒj jd jv jz jɲ kt kɾ nj sk stʃ sw ws wz wɾ ld lp ɾp ʁm ʁs ʃs bl"
+    },
+    "wordFinalConsonants": {
+        "value": "ɾ ʃ w l ɲ ʁ j s jʃ js wʃ ɲʃ ɲs wʃ"
+    },
+    "illegalCombinations": {
+        "value": "ĩn ij ji uw wu nn mm"
+    },
+    "advancedVowels": {
+        "value": "ɐ u i a ɨ e o ɛ ɐ̃ ɔ ẽ õ ɐ̃w̃ ĩ ũ"
+    },
+    "secondVowelGroup": {
+        "value": ""
+    },
+    "phonemeClasses": {
+        "value": "C = b k p r s v w q g\nL = l m n\nV = a e i o u\nA = ion lar mel\nS = CV CVL VC"
+    },
+    "wordPatterns": {
+        "value": "S\nSS\nSSS\nzVSA\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
+    },
+    "affixPatterns": {
+        "value": "-VC\nCLa-\nCa-"
+    },
+    "maxOnset": {
+        "value": ""
+    },
+    "maxCoda": {
+        "value": ""
+    },
+    "vowelStartProb": {
+        "value": ""
+    },
+    "vowelEndProb": {
+        "value": ""
+    },
+    "vowelTones": {
+        "value": "˧ ˥ ˧˥ ˨˩˦ ˥˩"
+    },
+    "spellingRules": {
+        "value": "kw > qu\nk(?=[ieɛ]) > qu\nk > c\nʎ > lh\nj > i\nʒ > j\nɾ > r\nʁ > r\nʃ# > s\nʃ(?=C) > s\nʃ > ch\nɲ > nh\nw > u\nɐ̃w̃ > ão\nɨ > e\nɛ > e\nɔ > o\nĩ# > im\nĩ(?=[pb]) > im\nĩ > in\nũ# > um\nũ(?=[pb]) > ump\nũ > un\nẽ# > em\nẽ(?=[pb]) > em\nẽ > en\nɐ̃# > am\nɐ̃(?=[pb]) > am\nɐ̃ > an\nɐ > a\nõ# > om\nõ(?=[pb]) > im\nõ > on"
+    },
+    "customAlphabetOrder": {
+        "value": ""
+    },
+    "secondSpellingRules": {
+        "value": ""
+    },
+    "phonologicalRules": {
+        "value": ""
+    },
+    "addRemoveWords": {
+        "value": ""
+    },
+    "derivedWords": {
+        "value": ""
+    },
+    "derivationalAffixes": {
+        "value": "ADVERB = Random\nQUALITY.OF.BEING = Random\nTO.MAKE = Random\nHAVING.QUALITY.OF = Random\nRELATING.TO = Random\nTO.CREATE = Random\nRESULT.OF.DOING = Random\nLIKELY.TO = Random\nACT.OF = Random\nPRODUCT.OF = Random\nDOER = Random\nPLACE.OF = Random\nDIM = Random\nAUG = Random"
+    },
+    "POSmorphology": {
+        "value": "nm = -o\nnf = -a\nv = -ar"
+    },
+    "languageName": {
+        "value": ""
+    },
+    "anglicizedName": {
+        "value": ""
+    },
+    "nounGenders": {
+        "value": "Masculine\nFeminine\nNeuter"
+    },
+    "pdfWordColour": {
+        "value": "blue"
+    },
+    "pdfBackgroundColour": {
+        "value": "maroon"
+    },
+    "pdfColumnsPerPage": {
+        "value": "3"
+    },
+    "pdfIPA": {
+        "value": "IPAbn"
+    },
+    "harmonyClicked": {
+        "value": "false"
+    },
+    "grammarEditor": {
+        "ops": [
+            {
+                "insert": "\n"
+            }
+        ]
+    },
+    "seedNumber": {
+        "value": ""
+    }
+}
