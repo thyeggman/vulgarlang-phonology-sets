@@ -10,7 +10,7 @@ As articles will point out, this language was unfinished by Tolkien. I've reprod
 - [Wikipedia Article on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
 - [Long article on Ardûnaic from a site probably made in the 90s](https://folk.uib.no/hnohf/adunaic.htm)
 
-##  Old English
+## Old English
 
 - [Wikipedia Entry on Old English Orthography](https://en.wikipedia.org/wiki/Old_English#Orthography)
 - [Wikipedia Entry on Old English Phonology](https://en.wikipedia.org/wiki/Old_English_phonology)
