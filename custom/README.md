@@ -17,7 +17,7 @@ This landguage is very similar to Adûnaic but was more well-documented. It is a
 - [Wikipedia Entry on Khuzdul](https://en.wikipedia.org/wiki/Khuzdul)
 - [NYU's Khuzdul Dictionary](http://pages.stern.nyu.edu/~adamodar/ryan/Linguistics/Dictionaries/Dwarvish%20Dictionary.htm)
 - [LotRO Wiki Entry on Khuzdul](https://lotro-wiki.com/index.php/Khuzdul)
-- [IPA Charts for Khuzdul](https://lotr.fandom.com/wiki/IPA_charts)
+- [IPA Charts on LotR Fandom Wiki](https://lotr.fandom.com/wiki/IPA_charts)
 
 ## Old English
 
@@ -26,3 +26,12 @@ This landguage is very similar to Adûnaic but was more well-documented. It is a
 - [Wikipedia IPA Guide for Old English](https://en.wikipedia.org/wiki/Help:IPA/Old_English)
 - [The Porety Foundation's Transcription of Beowulf in Old English](https://www.poetryfoundation.org/poems/43521/beowulf-old-english-version)
 - [A worksheet from Harvard with some Old English Transliteration Exercises](https://sites.fas.harvard.edu/~eng101/workbook/old-eng/transcription/oe-babel-transcription.pdf)
+
+# Quenya
+
+This one was pretty difficult. I tried to stick to the most recent revision of the language. A lot of the spelling rules and illegal combinations are just there to make words "look" right and not for transliteration purposes. I may come back to this with a less exacting approach and just type in the transliterated consonant combinations. Again I left out legal combinations where they do not appear in the available lexicon.
+
+- [Wikipedia Entry on Quenya](https://en.wikipedia.org/wiki/Quenya)
+- [Large Quenya Dictionary from amgar-elderon.com](https://ambar-eldaron.com/telechargements/quenya-engl-A4.pdf)
+- [Notes on Quenyan Diacritics](https://middleearthreflections.com/2019/12/05/dots-and-curls-on-the-diacritics-in-quenya-and-sindarin/)
+- [IPA Charts on LotR Fandom Wiki](https://lotr.fandom.com/wiki/IPA_charts)
