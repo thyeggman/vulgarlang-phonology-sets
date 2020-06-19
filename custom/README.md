@@ -7,8 +7,17 @@ As articles will point out, this language was unfinished by Tolkien. I've reprod
 
 - [Ardûnaic Dictionary on RealElvish.net](https://realelvish.net/wordlists/adunaic/dictionary/)
 - [IPA Charts on LotR Fandom](https://lotr.fandom.com/wiki/IPA_charts)
-- [Wikipedia Article on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
+- [Wikipedia Entry on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
 - [Long article on Ardûnaic from a site probably made in the 90s](https://folk.uib.no/hnohf/adunaic.htm)
+
+## Khuzdul
+
+This landguage is very similar to Adûnaic but was more well-documented. It is a language spoken by dwarves. There are a few sounds Tolkien specify exist in the language but there are no known examples, so to keep to available examples I've left them out.
+
+- [Wikipedia Entry on Khuzdul](https://en.wikipedia.org/wiki/Khuzdul)
+- [NYU's Khuzdul Dictionary](http://pages.stern.nyu.edu/~adamodar/ryan/Linguistics/Dictionaries/Dwarvish%20Dictionary.htm)
+- [LotRO Wiki Entry on Khuzdul](https://lotro-wiki.com/index.php/Khuzdul)
+- [IPA Charts for Khuzdul](https://lotr.fandom.com/wiki/IPA_charts)
 
 ## Old English
 

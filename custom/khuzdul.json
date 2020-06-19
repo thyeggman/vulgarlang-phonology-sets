@@ -147,13 +147,13 @@
         "value": ""
     },
     "wordInitialConsonants": {
-        "value": "b d f g h j k kh l m n ʀ s sh t th z"
+        "value": "b d f g h j k kʰ l m n ʀ s sh t th z"
     },
     "midWordConsonants": {
-        "value": "b bb bl bm d dd dg dn dsh g gl gz h hf k kh kz khʀ l lb lg lkh m mʀ n nb nd nk ʀ ʀb ʀd ʀg ʀm ʀs ʀz ʀθ ʀbr s sn shm t z zb zd ɣ ʃ θ"
+        "value": "b bb bl bm d dd dg dn dsh g gl gz h hf k kʰ kz kʰʀ l lb lg lkʰ m mʀ n nb nd nk ʀ ʀb ʀd ʀg ʀm ʀs ʀz ʀtʰ ʀbr s sn shm t tʰ z zb zd ɣ ʃ"
     },
     "wordFinalConsonants": {
-        "value": "d g gn k kh l ls m n nn nd nt r rb rg rk s sn tn z zd zr"
+        "value": "d g gn k kʰ l ls m n nn nd nt r rb rg rk s sn tn z zd zr"
     },
     "illegalCombinations": {
         "value": ""
@@ -189,7 +189,7 @@
         "value": ""
     },
     "spellingRules": {
-        "value": "aː > â\neː > ê\niː > î\noː > ô\nuː > û\nɣ > gh\nʃ > sh\nθ > th\nʀ > r"
+        "value": "aː > â\neː > ê\niː > î\noː > ô\nuː > û\nɣ > gh\nʃ > sh\ntʰ > th\nʀ > r\nkʰ > kh"
     },
     "customAlphabetOrder": {
         "value": ""
