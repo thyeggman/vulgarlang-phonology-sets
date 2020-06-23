@@ -27,6 +27,13 @@ This landguage is very similar to Adûnaic but was more well-documented. It is a
 - [The Porety Foundation's Transcription of Beowulf in Old English](https://www.poetryfoundation.org/poems/43521/beowulf-old-english-version)
 - [A worksheet from Harvard with some Old English Transliteration Exercises](https://sites.fas.harvard.edu/~eng101/workbook/old-eng/transcription/oe-babel-transcription.pdf)
 
+## Phyrexian
+
+This language is too incomplete at the moment, I don't even have a real vowel set. This is based on research by reddit user [/u/citrus_inferno](https://www.reddit.com/user/citrus_inferno) off of a very small sample of phyrexian texts.
+
+- [Consonant Chart for Phyrexian](https://www.reddit.com/r/magicTCG/comments/dfpigy/a_partial_parsing_of_the_phyrexian_alphabet/)
+- [Recent Developments on Phyrxian from Jump Start](https://www.reddit.com/r/magicTCG/comments/he2dxn/partial_translation_of_the_phyrexian_swamp_lore/)
+
 ## Quenya
 
 This one was pretty difficult. I tried to stick to the most recent revision of the language. A lot of the spelling rules and illegal combinations are just there to make words "look" right and not for transliteration purposes. I may come back to this with a less exacting approach and just type in the transliterated consonant combinations. Again I left out legal combinations where they do not appear in the available lexicon.
