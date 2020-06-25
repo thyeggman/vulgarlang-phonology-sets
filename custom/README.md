@@ -10,9 +10,18 @@ As articles will point out, this language was unfinished by Tolkien. I've reprod
 - [Wikipedia Entry on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
 - [Long article on Ardûnaic from a site probably made in the 90s](https://folk.uib.no/hnohf/adunaic.htm)
 
+## Inuktitut
+
+This is the native Inuit language. Many dialects exist but I tried to exclude alternate phonemes present in dialects. This language may also be written using a hat (^) in place of double letters (aa, ii, uu).
+
+- [Wikipedia Entry on Inuktitut](https://en.wikipedia.org/wiki/Inuktitut)
+- [Wikipedia Entry on Inuit Grammar](https://en.wikipedia.org/wiki/Inuit_grammar)
+- [Wikipedia Entry on Inuit Phonology](https://en.wikipedia.org/wiki/Inuit_phonology)
+- [Labrador Virtual Museum Inuktitut-English Dictionary](http://www.labradorvirtualmuseum.ca/inuttut-english.htm)
+
 ## Khuzdul
 
-This landguage is very similar to Adûnaic but was more well-documented. It is a language spoken by dwarves. There are a few sounds Tolkien specify exist in the language but there are no known examples, so to keep to available examples I've left them out.
+This language is very similar to Adûnaic but was more well-documented. It is a language spoken by dwarves. There are a few sounds Tolkien specify exist in the language but there are no known examples, so to keep to available examples I've left them out.
 
 - [Wikipedia Entry on Khuzdul](https://en.wikipedia.org/wiki/Khuzdul)
 - [NYU's Khuzdul Dictionary](http://pages.stern.nyu.edu/~adamodar/ryan/Linguistics/Dictionaries/Dwarvish%20Dictionary.htm)
