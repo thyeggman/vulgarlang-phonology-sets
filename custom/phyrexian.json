@@ -141,10 +141,10 @@
         "value": "true"
     },
     "customConsonants": {
-        "value": "ɓ ɗ ɗ̥ g j l m n r s v z θ"
+        "value": "ɓ ɗ ɗ̥ f g j k kz l m n p ɹ ɾ s t v z ʒ θ ɸ ʔ ʡ ʃs"
     },
     "customVowels": {
-        "value": ""
+        "value": "ɐ ɑ ɒ æ ɛ ɜ ɘ ɪ ʌ ɔ ʊ u"
     },
     "wordInitialConsonants": {
         "value": ""

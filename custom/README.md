@@ -46,10 +46,11 @@ Klingon is a pretty well fleshed-out language with very complex rules that I don
 
 ## Phyrexian
 
-This is the language of the Phyrexians of Magic the Gathering. This language is too incomplete at the moment, I don't even have a real vowel set. This is based on research by reddit user [/u/citrus_inferno](https://www.reddit.com/user/citrus_inferno) off of a very small sample of phyrexian texts.
+This is the language of the Phyrexians of Magic the Gathering. This language is too incomplete at the moment. This is based on research by reddit users [/u/citrus_inferno](https://www.reddit.com/user/citrus_inferno) and [/u/GuruJ_](https://www.reddit.com/user/GuruJ_) off of a very small sample of phyrexian texts.
 
 - [Consonant Chart for Phyrexian](https://www.reddit.com/r/magicTCG/comments/dfpigy/a_partial_parsing_of_the_phyrexian_alphabet/)
 - [Recent Developments on Phyrxian from Jump Start](https://www.reddit.com/r/magicTCG/comments/he2dxn/partial_translation_of_the_phyrexian_swamp_lore/)
+- [Guide to Phyrexian 06-25-2020](https://www.reddit.com/r/magicTCG/comments/hfdxtt/guide_to_phyrexian_version_0%CE%B1_20200625/)
 
 ## Quenya
 
