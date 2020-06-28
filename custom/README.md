@@ -10,6 +10,10 @@ As articles will point out, this language was unfinished by Tolkien. I've reprod
 - [Wikipedia Entry on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
 - [Long article on Ardûnaic from a site probably made in the 90s](https://folk.uib.no/hnohf/adunaic.htm)
 
+## Dothraki
+
+This is a language that was included in the tool for a while but was removed after version 9.3.1. I have the original version in the default folder under the correct version but I'll be maintaining it in the current version to make sure it keeps working.
+
 ## Draconic
 
 This is based on the D&D Draconic lexicon. Since it's not a conlang, the rules are just derived from the lexicon that's available, which comes from a single article in _Dragon_ magazine. A few rules were created from the content of the article. For some reason the output has a bunch of diphthong diacritics which I didn't include, those can be ignored.
