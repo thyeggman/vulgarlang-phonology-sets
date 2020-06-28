@@ -10,6 +10,14 @@ As articles will point out, this language was unfinished by Tolkien. I've reprod
 - [Wikipedia Entry on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
 - [Long article on Ardûnaic from a site probably made in the 90s](https://folk.uib.no/hnohf/adunaic.htm)
 
+## Draconic
+
+This is based on the D&D Draconic lexicon. Since it's not a conlang, the rules are just derived from the lexicon that's available, which comes from a single article in _Dragon_ magazine. A few rules were created from the content of the article. For some reason the output has a bunch of diphthong diacritics which I didn't include, those can be ignored.
+
+- [Forgotten Realms Wiki Draconic Dictionary](https://forgottenrealms.fandom.com/wiki/Draconic_dictionary)
+- [Forgotten Realms Wiki Draconic Language](https://forgottenrealms.fandom.com/wiki/Draconic_language)
+- [Dragon Magazine 284 (see page 38-39)](https://archive.org/stream/DragonMagazine260_201801/DragonMagazine284#page/n37/mode/1up)
+
 ## Inuktitut
 
 This is the native Inuit language. Many dialects exist but I tried to exclude alternate phonemes present in dialects. This language may also be written using a hat (^) in place of double letters (aa, ii, uu).
