@@ -22,6 +22,13 @@ This is based on the D&D Draconic lexicon. Since it's not a conlang, the rules a
 - [Forgotten Realms Wiki Draconic Language](https://forgottenrealms.fandom.com/wiki/Draconic_language)
 - [Dragon Magazine 284 (see page 38-39)](https://archive.org/stream/DragonMagazine260_201801/DragonMagazine284#page/n37/mode/1up)
 
+## Elvish
+
+This is based on the D&D Elvish lexicon. Despite being a phonetic language, it seems to have some pretty dubious rules. I edited it to get to the point that looked somewhat correct. Some combinations, such as aa and ii, were omitted. Diacritics occurred so infrequently that I omitted them.
+
+- [Elvish Dictionary](http://www.candlekeep.com/library/articles/diction_elf.htm)
+- [A Treatise on Espruar (the Elvish script)](https://freepdfhosting.com/5f6a747504.pdf)
+
 ## Inuktitut
 
 This is the native Inuit language. Many dialects exist but I tried to exclude alternate phonemes present in dialects. This language may also be written using a hat (^) in place of double letters (aa, ii, uu).
