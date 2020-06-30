@@ -29,6 +29,13 @@ This is based on the D&D Elvish lexicon. Despite being a phonetic language, it s
 - [Elvish Dictionary](http://www.candlekeep.com/library/articles/diction_elf.htm)
 - [A Treatise on Espruar (the Elvish script)](https://freepdfhosting.com/5f6a747504.pdf)
 
+## Giant
+
+This is based on the D&D Giant lexicon. Borrows from Scandinavian language, so I tried to use Scandinavian vowel sounds where possible.
+
+- [Giant Dictionary](https://forgottenrealms.fandom.com/wiki/Giant_dictionary)
+- [Giant Language](https://forgottenrealms.fandom.com/wiki/Giant_language)
+
 ## Inuktitut
 
 This is the native Inuit language. Many dialects exist but I tried to exclude alternate phonemes present in dialects. This language may also be written using a hat (^) in place of double letters (aa, ii, uu).
