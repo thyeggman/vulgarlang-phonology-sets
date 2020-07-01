@@ -62,6 +62,13 @@ Klingon is a pretty well fleshed-out language with very complex rules that I don
 - [The Original Klingon Dictionary](https://startrekestonia.ucoz.ru/_fr/0/The-Klingon-Dic.pdf)
 - [The Klingon Wiki's Entry on Pronunciation](http://klingon.wiki/En/Pronunciation)
 
+## Na'Vi
+
+This is based on the language from James Cameron's Avatar. There is a bug currently where the "syllabic consonant" diacritic is not loaded correctly, so you'll have to manually paste the fields into the tool.
+
+- [Na'Vi Dictionary](https://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf)
+- [Wikipedia Entry on Na'Vi](https://en.wikipedia.org/wiki/Na'vi_language)
+
 ## Old English
 
 - [Wikipedia Entry on Old English Orthography](https://en.wikipedia.org/wiki/Old_English#Orthography)
