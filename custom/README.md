@@ -10,6 +10,13 @@ As articles will point out, this language was unfinished by Tolkien. I've reprod
 - [Wikipedia Entry on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
 - [Long article on Ardûnaic from a site probably made in the 90s](https://folk.uib.no/hnohf/adunaic.htm)
 
+## Atlantean
+
+This language is based on the conlang created for the Disney Film _Atlantis: The Lost Empire_. Currently the phonetics are slightly wrong because there is no way in Vulgarlang to change sounds based on the stressed syllable; the vowel sounds change from `ɔ ɪ ʊ ɘ ɜ` to `o i u a e` on stressed syllables, respectively. The lexicon is minimal so the source is a fan dictionary which uses the movies and phonetical rules as a basis for expanding the available terms.
+
+- [Wikipedia Entry on Atlantean](https://en.wikipedia.org/wiki/Atlantean_language)
+- [Okrand's Atlantean Fanonical Dictionary](https://naviklingon.blogspot.com/2015/04/okrands-atlantean-fanonical-dictionary.html)
+
 ## Dothraki
 
 This is a language that was included in the tool for a while but was removed after version 9.3.1. I have the original version in the default folder under the correct version but I'll be maintaining it in the current version to make sure it keeps working.
