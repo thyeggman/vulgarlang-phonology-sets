@@ -147,25 +147,25 @@
         "value": ""
     },
     "wordInitialConsonants": {
-        "value": "f fj fk fkʼ fl flr̩ fm fn fp fpʼ fr ft ftʼ fw fŋ fɾ h hr̩ j jl jr k kʼ kl̩ kr̩ l lr̩ m ml̩ mr̩ n nr̩ p pʼ pl̩ pr̩ s sj sk skʼ sl sm sn snr̩ sp spʼ st stʼ sw sŋ sɾ t tʼ tr̩ t͡s t͡sj t͡sk t͡skʼ t͡sl t͡sm t͡st t͡stʼ t͡sw t͡sŋ t͡sɾ v vl̩ vr̩ w wr̩ z ŋ ŋr̩ ɾ ʔ"
+        "value": "f fj fk fkʼ fl fm fn fp fpʼ fr ft ftʼ fw fŋ fɾ h j jl jr k kʼ l m n p pʼ s sj sk skʼ sl sm sn sp spʼ st stʼ sw sŋ sɾ t tʼ t͡s t͡sj t͡sk t͡skʼ t͡sl t͡sm t͡st t͡stʼ t͡sw t͡sŋ t͡sɾ v w z ŋ ɾ ʔ"
     },
     "midWordConsonants": {
-        "value": "f fj fk fp ft fw fŋ fɾ h hr j jk jl jm jn jɾ k k kr̩ l l̩ m n nr̩ p pʼ pl s sj skr̩ sm sn sp spʼ st sw sɾ t tʼ tr t͡s t͡sj t͡sk t͡st t͡sw t͡sɾ v w wk wm wn wŋ wɾ z ŋ ɾ ʔ"
+        "value": "f fj fk fp ft fw fŋ fɾ h hr j jk jl jm jn jɾ k l m n p pʼ pl s sj sk sm sn sp spʼ st sw sɾ t tʼ tr t͡s t͡sj t͡sk t͡st t͡sw t͡sɾ v w wk wm wn wŋ wɾ z ŋ ɾ ʔ"
     },
     "wordFinalConsonants": {
-        "value": "fkr̩ j jl jm jn jp jŋ k kʼ kr l m n p pʼ t tʼ tr̩ w wk wkʼ wl wl̩ wm wn wŋ wɾ ŋ ɾ ʔ"
+        "value": "fk j jl jm jn jp jŋ k kʼ kr l m n p pʼ t tʼ w wk wkʼ wl wm wn wŋ wɾ ŋ ɾ ʔ"
     },
     "illegalCombinations": {
-        "value": "jj ww"
+        "value": "jj ww C[l̩r̩]C l̩l ll̩ ɾr̩ r̩ɾ"
     },
     "advancedVowels": {
-        "value": "a aj aw i o u æ ɑ ɛ ɛj ɛw ɪ ʊ"
+        "value": "a aj aw i o u æ ɑ ɛ ɛj ɛw ɪ ʊ l̩ r̩"
     },
     "secondVowelGroup": {
         "value": ""
     },
     "phonemeClasses": {
-        "value": "C = b k p r s v w q g\nV = a e i o u\nS = CV V CVC VC"
+        "value": "C = b k p r s v w q g\nV = a e i o u\nS = CV CVC VC"
     },
     "wordPatterns": {
         "value": "S\nCS\nSC\nSS\nCSS\nSSC\nSSS\nCSSS\nSSSC\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
