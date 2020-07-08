@@ -108,3 +108,12 @@ The language as represented here has a higher rate of acute accent diacritics th
 - [Wikipedia Entry on Sindarin](https://en.wikipedia.org/wiki/Sindarin)
 - [Sindarin Dictionary from amgar-eldaron.com](https://www.ambar-eldaron.com/english/downloads/sindarin-english.pdf)
 - [IPA Charts on LotR Fandom Wiki](https://lotr.fandom.com/wiki/IPA_charts)
+
+## Valyrian
+
+This is the language used in George RR Martin's _Song of Ice and Fire_ series. Phonemical consonants from loan words were excluded.
+
+- [Wikipedia Entry on Valyrian](https://en.wikipedia.org/wiki/Valyrian_languages)
+- [Partial Valyrian Dictionary](https://xdocs.net/preview/high-valyrian-dictionary-5c671a4702acb)
+- [Word Counts for Valyrian](http://dothraki.com/2013/06/kastamiro-daomior/#comment-1854)
+- [Swadesh List for Valyrian](https://dothraki.com/wp-content/uploads/2013/12/valyrian_swadesh.pdf)
