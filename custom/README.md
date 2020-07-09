@@ -76,6 +76,14 @@ This is based on the language from James Cameron's Avatar. There is a bug curren
 - [Na'Vi Dictionary](https://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf)
 - [Wikipedia Entry on Na'Vi](https://en.wikipedia.org/wiki/Na'vi_language)
 
+## Norse
+
+Based on Old Norse.
+
+- [Wikipedia Entry on Old Norse](https://en.wikipedia.org/wiki/Old_Norse)
+- [Small Norse Dictionary](http://ydalir.ca/norsedictionary/)
+- [Large Norse Dictionary](https://www.vikingsofbjornstad.com/Old_Norse_Dictionary_N2E.shtm)
+
 ## Old English
 
 - [Wikipedia Entry on Old English Orthography](https://en.wikipedia.org/wiki/Old_English#Orthography)
