@@ -69,6 +69,14 @@ Klingon is a pretty well fleshed-out language with very complex rules that I don
 - [The Original Klingon Dictionary](https://startrekestonia.ucoz.ru/_fr/0/The-Klingon-Dic.pdf)
 - [The Klingon Wiki's Entry on Pronunciation](http://klingon.wiki/En/Pronunciation)
 
+## Maori
+
+Based on the language of the indigenous people of New Zealand.
+
+- [Wikipedia Article on Maori Language](https://en.wikipedia.org/wiki/M%C4%81ori_language)
+- [Wikipedia Article on Maori Phonology](https://en.wikipedia.org/wiki/M%C4%81ori_phonology)
+- [A Thesis with some old Maori Words](https://ir.canterbury.ac.nz/bitstream/handle/10092/4865/duval_thesis_vol1.pdf)
+
 ## Na'Vi
 
 This is based on the language from James Cameron's Avatar. There is a bug currently where the "syllabic consonant" diacritic is not loaded correctly, so you'll have to manually paste the fields into the tool.
