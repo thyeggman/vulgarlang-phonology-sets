@@ -10,6 +10,14 @@ As articles will point out, this language was unfinished by Tolkien. I've reprod
 - [Wikipedia Entry on Ardûnaic](https://en.wikipedia.org/wiki/Ad%C3%BBnaic)
 - [Long article on Ardûnaic from a site probably made in the 90s](https://folk.uib.no/hnohf/adunaic.htm)
 
+## Ancient Greek
+
+I didn't set this up to use Greek Orthography.
+
+- [Wikipedia Entry on Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek)
+- [Wikipedia Entry on Ancient Greek Phonology](https://en.wikipedia.org/wiki/Ancient_Greek_phonology)
+- [Greek Old Testament Dictionary](https://lexicon.katabiblon.com/index.php?letter=a)
+
 ## Atlantean
 
 This language is based on the conlang created for the Disney Film _Atlantis: The Lost Empire_. Currently the phonetics are slightly wrong because there is no way in Vulgarlang to change sounds based on the stressed syllable; the vowel sounds change from `ɔ ɪ ʊ ɘ ɜ` to `o i u a e` on stressed syllables, respectively. The lexicon is minimal so the source is a fan dictionary which uses the movies and phonetical rules as a basis for expanding the available terms.
