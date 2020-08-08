@@ -1,0 +1,252 @@
+{
+    "version": "9.5",
+    "settingsVersion": "3.0",
+    "level": "Pro",
+    "dropoffRate": {
+        "radioID": "mediumDrop"
+    },
+    "stressPattern": {
+        "radioID": "randomStress"
+    },
+    "footDefinition": {
+        "radioID": "footDefinition2"
+    },
+    "feetBuildFrom": {
+        "radioID": "leftEdge"
+    },
+    "feetStressedOn": {
+        "radioID": "firstSyllable"
+    },
+    "mainStress": {
+        "radioID": "leftMost"
+    },
+    "representToneAs": {
+        "radioID": "letter"
+    },
+    "numberBase": {
+        "radioID": "numberBaseEither"
+    },
+    "wordOrder": {
+        "radioID": "randomWordOrder"
+    },
+    "adjectiveOrder": {
+        "radioID": "randomAdjOrder"
+    },
+    "forceAffixes": {
+        "radioID": "forceAffixesEither"
+    },
+    "customPhonemes": {
+        "value": "false"
+    },
+    "addRandomPhonemes": {
+        "value": "false"
+    },
+    "wordStructure": {
+        "value": "true"
+    },
+    "advancedWordStructure": {
+        "value": "false"
+    },
+    "banDoubleSyllable": {
+        "value": "false"
+    },
+    "syllableStructure": {
+        "value": "false"
+    },
+    "allowContrastiveStress": {
+        "value": "false"
+    },
+    "vowelProbabilities": {
+        "value": "false"
+    },
+    "vowelToneCheck": {
+        "value": "false"
+    },
+    "spellingCheck": {
+        "value": "true"
+    },
+    "spellingSensitiveToStress": {
+        "value": "false"
+    },
+    "addRandomSpellingRules": {
+        "value": "false"
+    },
+    "composeSpelling": {
+        "value": "false"
+    },
+    "hangul": {
+        "value": "false"
+    },
+    "removeAllSpelling": {
+        "value": "false"
+    },
+    "secondSpellingCheck": {
+        "value": "false"
+    },
+    "phonologicalChangesCheck": {
+        "value": "false"
+    },
+    "applyPhonologicalChanges": {
+        "value": "false"
+    },
+    "sqaureBracketChanges": {
+        "value": "false"
+    },
+    "addRandomPhonologicalRules": {
+        "value": "false"
+    },
+    "removeForwardslash": {
+        "value": "false"
+    },
+    "addRemoveWordsCheck": {
+        "value": "false"
+    },
+    "sciFiVocab": {
+        "value": "false"
+    },
+    "removeDefaultWords": {
+        "value": "false"
+    },
+    "removeTranslations": {
+        "value": "false"
+    },
+    "removeDefaultDerivedWords": {
+        "value": "false"
+    },
+    "POSmorphologyCheck": {
+        "value": "false"
+    },
+    "nounGenderCheck": {
+        "value": "false"
+    },
+    "grammarCheck": {
+        "value": "false"
+    },
+    "hidePhonologySection": {
+        "value": "false"
+    },
+    "expandEditor": {
+        "value": "false"
+    },
+    "banDoubleVowel": {
+        "value": "true"
+    },
+    "anglicize": {
+        "value": "true"
+    },
+    "removeDiphthongTiebar": {
+        "value": "true"
+    },
+    "displayDerivationalAffixes": {
+        "value": "true"
+    },
+    "pdfColumnBreak": {
+        "value": "true"
+    },
+    "customConsonants": {
+        "value": ""
+    },
+    "customVowels": {
+        "value": ""
+    },
+    "wordInitialConsonants": {
+        "value": "f fj j h hj k kr kʰ kʲ kʲʰ l̪ l̪ˠ m mj n̪ˠ ɲ p pj pʰ pʰj rˠ s̪p s̪ s̪t̪ɾ tʲ tʲʰ t̪ t̪ʰ vj ʎ ʃ"
+    },
+    "midWordConsonants": {
+        "value": "ç f fj h hj j ʝ k kʰ kʲ kʲʰ l l̪ l̪ˠ m mj n n̪ˠ ɲ p pj pʰ pʰj rˠ ɾ ɾʲ s̪ tʲ tʲʰ t̪ t̪ʰ v vj ɣ x xk ʎ ʃ"
+    },
+    "wordFinalConsonants": {
+        "value": "ç f h j ʝ k kʰ kʲ kʲʰ l l̪ˠ m n n̪ˠ ɲ p pʰ rˠ ɾ ɾʲ ɾʃt̪ s̪ tʲ tʲʰ t̪ t̪ʰ v ɣ x ʎ ʃ"
+    },
+    "illegalCombinations": {
+        "value": ""
+    },
+    "advancedVowels": {
+        "value": "a ai au aː e ei eː ɛ ɛu ɛː ə i ia iə iː o oː ɔ ɔu ɔː u uə ui uː ɤ ɤi ɯ ɯː"
+    },
+    "secondVowelGroup": {
+        "value": ""
+    },
+    "phonemeClasses": {
+        "value": "C = ç f fj h hj j ʝ k kʰ kʲ kʲʰ l l̪ l̪ˠ m mj n n̪ˠ ɲ p pj pʰ pʰj rˠ ɾ ɾʲ s̪ tʲ tʲʰ t̪ t̪ʰ v vj ɣ x ʎ ʃ\nV = a ai au aː e ei eː ɛ ɛu ɛː ə i ia iə iː o oː ɔ ɔu ɔː u uə ui uː ɤ ɤi ɯ ɯː\nS = CV VC CVC"
+    },
+    "wordPatterns": {
+        "value": "S\nSS\nSSS\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
+    },
+    "affixPatterns": {
+        "value": "-VC\nCLa-\nCa-\nIF V# THEN -C ELSE -V"
+    },
+    "maxOnset": {
+        "value": ""
+    },
+    "maxCoda": {
+        "value": ""
+    },
+    "vowelStartProb": {
+        "value": ""
+    },
+    "vowelEndProb": {
+        "value": ""
+    },
+    "vowelTones": {
+        "value": ""
+    },
+    "spellingRules": {
+        "value": "ɾʃt̪# > rt|rd\n#s̪t̪ɾ > sr|str\naː > à\neː > é \nɛː > è \niː > ì \noː > ò \nɔː > ò \nuː > ù \nɯː > à\nvj > bh|mh\npj > b\nmj > m\nxk > chd\n[(ai)(éi)]# > $&dh\nt̪ > d\ntʲ > d\nfj > f\nkr > cn|gn\n[ɣʝ] > dh|gh\n[xç] > ch\nɲ > n|nn\nn̪ˠ > n|nn\n#nn > n\nn# > nn\n#f > ph\nhj > h\n[ea]# > $&|$&th\nɔ > o\nɛ > e\nə > ai\nɤ > oi\nɯ > u\nʃ > s\ng > d\np > b\nv > bh|mh\nl̪ˠ > l|ll\nʎ > l|ll\nɾ > r\nrˠ > rr\nr# > r|rr\nk > c\nt̪ > t\n#h > th\nʰ > \nʲ >\nl̪ > l\nnnn# > nn\ns̪ > s\nj > dh|gh"
+    },
+    "customAlphabetOrder": {
+        "value": ""
+    },
+    "secondSpellingRules": {
+        "value": ""
+    },
+    "phonologicalRules": {
+        "value": ""
+    },
+    "addRemoveWords": {
+        "value": ""
+    },
+    "derivedWords": {
+        "value": ""
+    },
+    "derivationalAffixes": {
+        "value": "ADVERB = Random\nQUALITY.OF.BEING = Random\nTO.MAKE = Random\nHAVING.QUALITY.OF = Random\nRELATING.TO = Random\nTO.CREATE = Random\nRESULT.OF.DOING = Random\nLIKELY.TO = Random\nACT.OF = Random\nPRODUCT.OF = Random\nDOER = Random\nPLACE.OF = Random\nDIM = Random\nAUG = Random"
+    },
+    "POSmorphology": {
+        "value": "nm = -o\nnf = -a\nv = -ar"
+    },
+    "languageName": {
+        "value": ""
+    },
+    "anglicizedName": {
+        "value": ""
+    },
+    "nounGenders": {
+        "value": "Masculine\nFeminine\nNeuter"
+    },
+    "pdfWordColour": {
+        "value": "blue"
+    },
+    "pdfBackgroundColour": {
+        "value": "maroon"
+    },
+    "pdfColumnsPerPage": {
+        "value": "3"
+    },
+    "pdfIPA": {
+        "value": "IPAbn"
+    },
+    "harmonyClicked": {
+        "value": "false"
+    },
+    "grammarEditor": {
+        "ops": [
+            {
+                "insert": "\n"
+            }
+        ]
+    },
+    "seedNumber": {
+        "value": ""
+    }
+}

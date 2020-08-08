@@ -44,6 +44,13 @@ This is based on the D&D Elvish lexicon. Despite being a phonetic language, it s
 - [Elvish Dictionary](http://www.candlekeep.com/library/articles/diction_elf.htm)
 - [A Treatise on Espruar (the Elvish script)](https://freepdfhosting.com/5f6a747504.pdf)
 
+## Gaelic
+
+This is a _very_ loose interpretation of Scottish Gaelic. The rules for the languge are very complex, and the main part that I deviated was from the different consonant classes (slender vs broad). These classes heavily dictate what the vowels look like, but they were very hard to implement.  I may come back to this later if I figure out the syntax.  I wrote the rules once and they weren't remotely close to working so I set them aside.
+
+- [Wikipedia Entry on Scottish Gaelic Orthography and Phonology](https://en.wikipedia.org/wiki/Scottish_Gaelic_phonology_and_orthography)
+- [Wikipedia Entry on Scottish Gaelic Orthography](https://en.wikipedia.org/wiki/Scottish_Gaelic_orthography)
+
 ## Giant
 
 This is based on the D&D Giant lexicon. Borrows from Scandinavian language, so I tried to use Scandinavian vowel sounds where possible.
