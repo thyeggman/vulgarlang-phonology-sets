@@ -132,6 +132,13 @@ This one was pretty difficult. I tried to stick to the most recent revision of t
 - [Notes on Quenyan Diacritics](https://middleearthreflections.com/2019/12/05/dots-and-curls-on-the-diacritics-in-quenya-and-sindarin/)
 - [IPA Charts on LotR Fandom Wiki](https://lotr.fandom.com/wiki/IPA_charts)
 
+## Sekir
+
+The Sergal language as developed by reddit.
+
+- [Phonology and Script](https://www.reddit.com/r/SergalLanguage/comments/7ieowo/new_and_improved_sekir_alphabet_phonology/)
+- [Complete list of resources on Sekir](https://www.reddit.com/r/SergalLanguage/comments/52yvzp/merriam_webserg_20/)
+
 ## Sindarin
 
 The language as represented here has a higher rate of acute accent diacritics than the Sindarin lexicon. Another common rule not reflected is the use of the ^ diacritic on vowels in single-syllable words. I couldn't figure out how to enforce that rule.
