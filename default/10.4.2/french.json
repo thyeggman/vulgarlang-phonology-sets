@@ -1,0 +1,231 @@
+{
+    "version": "10.4.2",
+    "settingsVersion": "10.4",
+    "level": "Pro",
+    "dropoffRate": {
+        "radioID": "mediumDrop"
+    },
+    "stressPattern": {
+        "radioID": "randomStress"
+    },
+    "footDefinition": {
+        "radioID": "footDefinition2"
+    },
+    "feetBuildFrom": {
+        "radioID": "leftEdge"
+    },
+    "feetStressedOn": {
+        "radioID": "firstSyllable"
+    },
+    "mainStress": {
+        "radioID": "leftMost"
+    },
+    "representToneAs": {
+        "radioID": "letter"
+    },
+    "numberBase": {
+        "radioID": "numberBaseEither"
+    },
+    "wordOrder": {
+        "radioID": "randomWordOrder"
+    },
+    "adjectiveOrder": {
+        "radioID": "randomAdjOrder"
+    },
+    "forceAffixes": {
+        "radioID": "forceAffixesEither"
+    },
+    "saveDerviedWord": {
+        "radioID": "derivedWordsField"
+    },
+    "customPhonemes": {
+        "value": "false"
+    },
+    "addRandomPhonemes": {
+        "value": "false"
+    },
+    "wordStructure": {
+        "value": "true"
+    },
+    "advancedWordStructure": {
+        "value": "false"
+    },
+    "banDoubleSyllable": {
+        "value": "false"
+    },
+    "allowContrastiveStress": {
+        "value": "false"
+    },
+    "vowelProbabilities": {
+        "value": "false"
+    },
+    "vowelToneCheck": {
+        "value": "false"
+    },
+    "spellingCheck": {
+        "value": "true"
+    },
+    "spellingSensitiveToStress": {
+        "value": "false"
+    },
+    "addRandomSpellingRules": {
+        "value": "false"
+    },
+    "composeSpelling": {
+        "value": "false"
+    },
+    "hangul": {
+        "value": "false"
+    },
+    "removeAllSpelling": {
+        "value": "false"
+    },
+    "secondSpellingCheck": {
+        "value": "false"
+    },
+    "soundChangesCheck": {
+        "value": "false"
+    },
+    "permanentSoundChanges": {
+        "value": "false"
+    },
+    "squareBracketChanges": {
+        "value": "false"
+    },
+    "removeForwardslash": {
+        "value": "false"
+    },
+    "removeDiphthongTiebar": {
+        "value": "true"
+    },
+    "wordsCheck": {
+        "value": "false"
+    },
+    "sciFiVocab": {
+        "value": "false"
+    },
+    "removeDefaultWords": {
+        "value": "false"
+    },
+    "removeTranslations": {
+        "value": "false"
+    },
+    "removeDefaultDerivedWords": {
+        "value": "false"
+    },
+    "POSmorphologyCheck": {
+        "value": "false"
+    },
+    "nounGenderCheck": {
+        "value": "false"
+    },
+    "grammarCheck": {
+        "value": "false"
+    },
+    "hidePhonologySection": {
+        "value": "false"
+    },
+    "banDoubleVowel": {
+        "value": "true"
+    },
+    "anglicize": {
+        "value": "true"
+    },
+    "displayDerivationalAffixes": {
+        "value": "true"
+    },
+    "customConsonants": {
+        "value": ""
+    },
+    "customVowels": {
+        "value": ""
+    },
+    "wordInitialConsonants": {
+        "value": "s k d p m ʁ f l n pʁ t v b ʒ ʃ g tʁ pl vw kl kʁ gʁ mw sɥ bʁ w fʁ pw sp sw vj j kʁw lw pj pɥ st bj dʁw fl lj stʁ vʁ ʃw ʒɥ bl bw dw fw fʁɥ gl kw kɥ lɥ mj nw nɥ tj tʁw z ɥ ʁj ʁw ʒw"
+    },
+    "midWordConsonants": {
+        "value": "t s m ʁ v n sj l z p k f d ʁt kt b j ʒ lm ksj st tʁ ʁj ʁm sp ʁn g zj ʃ bl lj pʁ stʁ ʁsj vʁ ʁd dɥ pl stj tj vm vw ɲ ʁs bʁ dj dm dʁ dʒ gz gʁ ks ktɥ kʁ lt mw nm nɥ tm tn tɥ vj ʁf ʁl ʁv bʒ gm kn lw lɥ nd pt sm stʁɥ vl ʁk ʁʃ ʁʒ bɥ dbʁ fj fl fw fʁ gl kl km ksp kspl ktʁ lgʁ lk ll lk ls lv lʒ md pj plw pm psj pɥ ʁsk sl sk stw sɥ tw vn zn zw ʁdɥ ʁfw ʁkw ʁnj ʁpʁ ʁsp ʁsɥ ʁtj ʁw ʃt ʒj ʒm"
+    },
+    "wordFinalConsonants": {
+        "value": "ʁ l s t k n d m tʁ bl z ʒ st dʁ j bʁ f ʁt ʃ v ʁs p sk ʁm ks vʁ ɲ ʁk ʁʃ ʁʒ fʁ kst lk pl stʁ b g kt lʒ ʁdʁ ʁn ʁsk kl lm nd pt pʁ ʁd tm ʁl ʁv"
+    },
+    "illegalCombinations": {
+        "value": "{w,ɥ}ɔ {w,ɥ}y {w,ɥ}u {w,ɥ}œ {w,ɥ}ø ɔ̃n ɑ̃n ɛ̃n œ̃C# ɔ̃C# ɑ̃C# ɛ̃C# œ̃C# ɑ̃V ji"
+    },
+    "bwsVowels": {
+        "value": "a i e ɛ ɑ̃ ɔ ɔ̃ y u o ɛ̃ œ ø"
+    },
+    "bws2ndVowels": {
+        "value": ""
+    },
+    "phonemeClasses": {
+        "value": "C = b k p r s v w q g\nV = a e i o u\nS = CV CVC V VC"
+    },
+    "wordPatterns": {
+        "value": "S\nSS\nSSS\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
+    },
+    "affixPatterns": {
+        "value": "-VC\nCLa-\nCa-"
+    },
+    "maxOnset": {
+        "value": ""
+    },
+    "maxCoda": {
+        "value": ""
+    },
+    "vowelStartProb": {
+        "value": ""
+    },
+    "vowelEndProb": {
+        "value": ""
+    },
+    "vowelTones": {
+        "value": ""
+    },
+    "spellingRules": {
+        "value": "e > e*4 | er / _#\nksj > cti\nks > xe / _#\nks > x\nk > que / _#\nkt > ct\nsk > squ\nk > c / !_{i,e,ɛ}\nk > qu\nd > de / _#\nt# > te\nwi > oui\nwɛ̃ > oin\njɛ̃ > ien\nɛ̃ > in\nwɑ{a,ɑ} > oi\nʒ > g / _{i,e,ɛ}\nʒm > gem\nɥ > u\ny > u\nj > i\nʒ > ge / _#\nʒ > j\nʃ > che / _#\nɲ > gn\n∅ > e / CC_#\nv > ve  / _#\nʃ > ch\nʁ > r | rd | rt / _#\nʁ > r\nɔ̃ > on | om / _#\nɔ̃ > on\nɔ > o\nɑ̃ > an\nɛ > e\nø > eu\nœ > eu\nw > u"
+    },
+    "customAlphabetOrder": {
+        "value": ""
+    },
+    "secondSpellingRules": {
+        "value": ""
+    },
+    "soundChanges": {
+        "value": ""
+    },
+    "words": {
+        "value": ""
+    },
+    "derivedWords": {
+        "value": ""
+    },
+    "derivationalAffixes": {
+        "value": "ADVERB = Random\nQUALITY.OF.BEING = Random\nTO.MAKE = Random\nHAVING.QUALITY.OF = Random\nRELATING.TO = Random\nTO.CREATE = Random\nRESULT.OF.DOING = Random\nLIKELY.TO = Random\nACT.OF = Random\nPRODUCT.OF = Random\nDOER = Random\nPLACE.OF = Random\nDIM = Random\nAUG = Random"
+    },
+    "POSmorphology": {
+        "value": "nm = -o\nnf = -a\nv = -ar"
+    },
+    "ipaLangName": {
+        "value": ""
+    },
+    "anglicizedName": {
+        "value": ""
+    },
+    "nounGenders": {
+        "value": "Masculine\nFeminine\nNeuter"
+    },
+    "harmonyClicked": {
+        "value": "false"
+    },
+    "grammarEditor": {
+        "ops": [
+            {
+                "insert": "\n"
+            }
+        ]
+    },
+    "generateNow": {
+        "value": "true"
+    }
+}
