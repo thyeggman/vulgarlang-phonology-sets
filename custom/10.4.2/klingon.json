@@ -1,0 +1,231 @@
+{
+    "version": "10.4.2",
+    "settingsVersion": "10.4",
+    "level": "Pro",
+    "dropoffRate": {
+        "radioID": "mediumDrop"
+    },
+    "stressPattern": {
+        "radioID": "randomStress"
+    },
+    "footDefinition": {
+        "radioID": "footDefinition2"
+    },
+    "feetBuildFrom": {
+        "radioID": "leftEdge"
+    },
+    "feetStressedOn": {
+        "radioID": "firstSyllable"
+    },
+    "mainStress": {
+        "radioID": "leftMost"
+    },
+    "representToneAs": {
+        "radioID": "letter"
+    },
+    "numberBase": {
+        "radioID": "numberBaseEither"
+    },
+    "wordOrder": {
+        "radioID": "OSV"
+    },
+    "adjectiveOrder": {
+        "radioID": "afterAdjOrder"
+    },
+    "forceAffixes": {
+        "radioID": "forceAffixesPre"
+    },
+    "saveDerviedWord": {
+        "radioID": "derivedWordsField"
+    },
+    "customPhonemes": {
+        "value": "false"
+    },
+    "addRandomPhonemes": {
+        "value": "false"
+    },
+    "wordStructure": {
+        "value": "true"
+    },
+    "advancedWordStructure": {
+        "value": "false"
+    },
+    "banDoubleSyllable": {
+        "value": "false"
+    },
+    "allowContrastiveStress": {
+        "value": "false"
+    },
+    "vowelProbabilities": {
+        "value": "true"
+    },
+    "vowelToneCheck": {
+        "value": "false"
+    },
+    "spellingCheck": {
+        "value": "true"
+    },
+    "spellingSensitiveToStress": {
+        "value": "false"
+    },
+    "addRandomSpellingRules": {
+        "value": "false"
+    },
+    "composeSpelling": {
+        "value": "false"
+    },
+    "hangul": {
+        "value": "false"
+    },
+    "removeAllSpelling": {
+        "value": "false"
+    },
+    "secondSpellingCheck": {
+        "value": "false"
+    },
+    "soundChangesCheck": {
+        "value": "false"
+    },
+    "permanentSoundChanges": {
+        "value": "false"
+    },
+    "squareBracketChanges": {
+        "value": "false"
+    },
+    "removeForwardslash": {
+        "value": "false"
+    },
+    "removeDiphthongTiebar": {
+        "value": "false"
+    },
+    "wordsCheck": {
+        "value": "false"
+    },
+    "sciFiVocab": {
+        "value": "false"
+    },
+    "removeDefaultWords": {
+        "value": "false"
+    },
+    "removeTranslations": {
+        "value": "false"
+    },
+    "removeDefaultDerivedWords": {
+        "value": "false"
+    },
+    "POSmorphologyCheck": {
+        "value": "false"
+    },
+    "nounGenderCheck": {
+        "value": "false"
+    },
+    "grammarCheck": {
+        "value": "false"
+    },
+    "hidePhonologySection": {
+        "value": "false"
+    },
+    "banDoubleVowel": {
+        "value": "true"
+    },
+    "anglicize": {
+        "value": "true"
+    },
+    "displayDerivationalAffixes": {
+        "value": "true"
+    },
+    "customConsonants": {
+        "value": ""
+    },
+    "customVowels": {
+        "value": ""
+    },
+    "wordInitialConsonants": {
+        "value": "b ɖ d͡ʒ j l m n ŋ pʰ qʰ q͡χ r ʂ tʰ t͡ɬ t͡ʃ v ɣ w χ ʔ"
+    },
+    "midWordConsonants": {
+        "value": "b ɖ d͡ʒ j l m n ŋ pʰ qʰ q͡χ r ʂ tʰ t͡ɬ t͡ʃ v ɣ w χ ʔ"
+    },
+    "wordFinalConsonants": {
+        "value": "b ɖ d͡ʒ j jʔ l m n ŋ pʰ qʰ q͡χ r ʂ tʰ t͡ɬ t͡ʃ v r rɣ ɣ w wʔ χ ʔ"
+    },
+    "illegalCombinations": {
+        "value": "[aɛoʊ]ɪ̯j iːj [aɛɪ]ʊ̯w [aɛɪ]ʊ̯C# [aɛoʊ]ɪ̯C# iːC#"
+    },
+    "bwsVowels": {
+        "value": "ɑ aɪ̯ aʊ̯ ɛ ɛɪ̯ ɛʊ̯ ɪ iː ɪʊ̯ o oɪ̯ u ʊɪ̯"
+    },
+    "bws2ndVowels": {
+        "value": ""
+    },
+    "phonemeClasses": {
+        "value": "C = b ɖ d͡ʒ j l m n ŋ pʰ qʰ q͡χ r ʂ tʰ t͡ɬ t͡ʃ v ɣ w χ ʔ\nV = ɑ aɪ̯ aʊ̯ ɛ ɛɪ̯ ɛʊ̯ ɪ iː ɪʊ̯ o oɪ̯ u ʊɪ̯\nS = CV CVC"
+    },
+    "wordPatterns": {
+        "value": "CVC\nSS\nSSS\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
+    },
+    "affixPatterns": {
+        "value": "-VC\nCLa-\nCa-"
+    },
+    "maxOnset": {
+        "value": ""
+    },
+    "maxCoda": {
+        "value": ""
+    },
+    "vowelStartProb": {
+        "value": "0"
+    },
+    "vowelEndProb": {
+        "value": "0"
+    },
+    "vowelTones": {
+        "value": ""
+    },
+    "spellingRules": {
+        "value": "aɪ̯ > ay\naʊ̯ > aw\nɛɪ̯  > ey\nɛʊ̯ > ew \niː > Iy\nɪʊ̯ > Iw\noɪ̯ > oy\nʊɪ̯ > uy\nt͡ʃ > ch\nj > y\nd͡ʒ > j\npʰ > p\nqʰ > q\nq͡χ > Q\ntʰ > t\nt͡ɬ > tlh\nɑ > a\nɛ > e\nɪ > I\nɖ > D\nɣ > gh\nχ > H\nʂ > S\nʔ > '\nŋ > ng"
+    },
+    "customAlphabetOrder": {
+        "value": ""
+    },
+    "secondSpellingRules": {
+        "value": ""
+    },
+    "soundChanges": {
+        "value": ""
+    },
+    "words": {
+        "value": ""
+    },
+    "derivedWords": {
+        "value": ""
+    },
+    "derivationalAffixes": {
+        "value": "ADVERB = Random\nQUALITY.OF.BEING = Random\nTO.MAKE = Random\nHAVING.QUALITY.OF = Random\nRELATING.TO = Random\nTO.CREATE = Random\nRESULT.OF.DOING = Random\nLIKELY.TO = Random\nACT.OF = Random\nPRODUCT.OF = Random\nDOER = Random\nPLACE.OF = Random\nDIM = Random\nAUG = Random"
+    },
+    "POSmorphology": {
+        "value": "nm = -o\nnf = -a\nv = -ar"
+    },
+    "ipaLangName": {
+        "value": ""
+    },
+    "anglicizedName": {
+        "value": ""
+    },
+    "nounGenders": {
+        "value": "Masculine\nFeminine\nNeuter"
+    },
+    "harmonyClicked": {
+        "value": "false"
+    },
+    "grammarEditor": {
+        "ops": [
+            {
+                "insert": "\n"
+            }
+        ]
+    },
+    "generateNow": {
+        "value": "true"
+    }
+}
