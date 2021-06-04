@@ -1,0 +1,1530 @@
+{
+    "version": "10.4.2",
+    "settingsVersion": "10.4",
+    "level": "Pro",
+    "dropoffRate": {
+        "radioID": "equiprobable"
+    },
+    "stressPattern": {
+        "radioID": "noFixedStress"
+    },
+    "footDefinition": {
+        "radioID": "footDefinition2"
+    },
+    "feetBuildFrom": {
+        "radioID": "leftEdge"
+    },
+    "feetStressedOn": {
+        "radioID": "firstSyllable"
+    },
+    "mainStress": {
+        "radioID": "leftMost"
+    },
+    "representToneAs": {
+        "radioID": "letter"
+    },
+    "numberBase": {
+        "radioID": "numberBaseEither"
+    },
+    "wordOrder": {
+        "radioID": "VSO"
+    },
+    "adjectiveOrder": {
+        "radioID": "afterAdjOrder"
+    },
+    "forceAffixes": {
+        "radioID": "forceAffixesEither"
+    },
+    "saveDerviedWord": {
+        "radioID": "derivedWordsField"
+    },
+    "customPhonemes": {
+        "value": "false"
+    },
+    "addRandomPhonemes": {
+        "value": "false"
+    },
+    "wordStructure": {
+        "value": "true"
+    },
+    "advancedWordStructure": {
+        "value": "false"
+    },
+    "banDoubleSyllable": {
+        "value": "false"
+    },
+    "allowContrastiveStress": {
+        "value": "false"
+    },
+    "vowelProbabilities": {
+        "value": "false"
+    },
+    "vowelToneCheck": {
+        "value": "false"
+    },
+    "spellingCheck": {
+        "value": "true"
+    },
+    "spellingSensitiveToStress": {
+        "value": "false"
+    },
+    "addRandomSpellingRules": {
+        "value": "false"
+    },
+    "composeSpelling": {
+        "value": "false"
+    },
+    "hangul": {
+        "value": "false"
+    },
+    "removeAllSpelling": {
+        "value": "false"
+    },
+    "secondSpellingCheck": {
+        "value": "false"
+    },
+    "soundChangesCheck": {
+        "value": "false"
+    },
+    "permanentSoundChanges": {
+        "value": "false"
+    },
+    "squareBracketChanges": {
+        "value": "false"
+    },
+    "removeForwardslash": {
+        "value": "false"
+    },
+    "removeDiphthongTiebar": {
+        "value": "false"
+    },
+    "wordsCheck": {
+        "value": "true"
+    },
+    "sciFiVocab": {
+        "value": "false"
+    },
+    "removeDefaultWords": {
+        "value": "true"
+    },
+    "removeTranslations": {
+        "value": "false"
+    },
+    "removeDefaultDerivedWords": {
+        "value": "true"
+    },
+    "POSmorphologyCheck": {
+        "value": "false"
+    },
+    "nounGenderCheck": {
+        "value": "true"
+    },
+    "grammarCheck": {
+        "value": "true"
+    },
+    "hidePhonologySection": {
+        "value": "false"
+    },
+    "banDoubleVowel": {
+        "value": "true"
+    },
+    "anglicize": {
+        "value": "true"
+    },
+    "displayDerivationalAffixes": {
+        "value": "true"
+    },
+    "customConsonants": {
+        "value": ""
+    },
+    "customVowels": {
+        "value": ""
+    },
+    "wordInitialConsonants": {
+        "value": "v*329 d*274 l*221 n*197 r*163 h*160 f*154 g*147 k*145 θ*144 s*118 m*116 t*109 sk*99 bl*97 fr*84 sv*84 b*80 w*76 sh*72 dr*61 kv*54 gr*43 hv*41 bj*38 br*38 fl*36 hr*35 st*34 θr*33 sl*27 hj*25 dv*23 ʤ*21 dw*20 ch*19 sj*19 c*18 hw*18 p*16 sn*16 hl*15 vr*14 tr*13 fj*10 kn*10 drj*9 kr*9 stj*9 θv*9 hlj*8 ll*6 lr*3 j*2 mj*2 rʼr*2 tj*2 ŋ*2 dj rjzl rr slv tl"
+    },
+    "midWordConsonants": {
+        "value": "r*63 l*55 n*54 t*49 θ*33 k*31 m*29 d*28 v*21 g*18 rn*17 s*17 nd*13 lf*12 rd*12 fr*11 ld*11 f*10 h*10 dh*9 lv*9 ll*8 rg*8 rt*8 st*8 bl*7 lb*7 p*7 w*7 dr*6 hn*6 kn*6 ln*6 b*5 dw*5 fl*5 gn*5 lg*5 ndl*5 rv*5 sk*5 ʤ*5 br*4 j*4 ng*4 rp*4 sn*4 sv*4 tl*4 tr*4 θr*4 dhr*3 dhw*3 dj*3 kv*3 lj*3 lr*3 nkn*3 nn*3 nv*3 rθ*3 ss*3 tj*3 vr*3 ch*2 dhg*2 gr*2 ldrv*2 lgr*2 lʤ*2 ndlv*2 rc*2 rr*2 sd*2 stv*2 sθ*2 ttn*2 xt*2 bj cʼs dv fsbl gsh hj hr ht kr ldθ lgl llgr lθ mn nt nʤ pn rb rdθ rjzl rm rmθr rtsk rtst rʤ sh sl tn tt vrbl ŋ θd θgr θl θv"
+    },
+    "wordFinalConsonants": {
+        "value": "n*249 r*183 l*156 m*116 s*105 t*85 θr*55 ndr*54 ll*49 θ*46 tr*44 kr*40 nr*40 rn*39 llr*36 dhr*35 ld*35 ldr*34 nd*34 x*34 ngr*33 rr*32 f*30 gr*30 k*27 rd*27 dh*26 mr*25 br*24 rm*23 nn*22 dr*21 ppr*20 ŋr*20 fr*19 hr*18 sk*18 ng*17 ss*17 rt*16 d*15 lpr*15 rst*15 rtr*15 ptr*14 ch*12 gz*12 g*11 lfr*11 lmr*11 ŋ*11 gh*10 rmr*10 vr*10 htr*9 lhr*9 tk*9 ht*8 rθ*8 st*8 str*8 ddr*7 rv*7 lgr*6 lls*6 rdh*6 rθr*6 dθr*5 mbr*4 p*4 rkr*3 rgr*2 c cʼ gs h kʼ nk ns rts"
+    },
+    "illegalCombinations": {
+        "value": ""
+    },
+    "bwsVowels": {
+        "value": "ɑ*1140 ɛ*764 ɪ*764 u*493 oʊ̯*377 ə*293 ɛɪ̯ˑ*143 i*136 eɪ̯*89 ə˞*78 a*77 ɔ*76 oʊ̯ʊ̯*64 y*52 æ*49 ʌ*31 aɪ̯*26 ɛɪ̯*10 ʊ*10 iu̯*6 ɑɪ̯*5"
+    },
+    "bws2ndVowels": {
+        "value": ""
+    },
+    "phonemeClasses": {
+        "value": "C = b k p t d r s v w q g\nL = l m n\nV = a e i o u\nS = CV CVL VC"
+    },
+    "wordPatterns": {
+        "value": "S\nSS\nSSS\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
+    },
+    "affixPatterns": {
+        "value": "-VC\nCV-\nIF V# THEN -C ELSE -V"
+    },
+    "maxOnset": {
+        "value": "null"
+    },
+    "maxCoda": {
+        "value": "null"
+    },
+    "vowelStartProb": {
+        "value": ""
+    },
+    "vowelEndProb": {
+        "value": ""
+    },
+    "vowelTones": {
+        "value": ""
+    },
+    "spellingRules": {
+        "value": "aɪ̯ > ie\ny > ǔ\neɪ̯ > ay\nɛ > e\nɔ > o\nɑ > á\nə˞ > a\nə > ǎ\nɪ > í\nʊ > ú\nʌ > ů\nc > chy\nj > y\nx > kh\nŋ > ng\nʤ > j\nθ > th\n◌̯ > \nˑ >"
+    },
+    "customAlphabetOrder": {
+        "value": ""
+    },
+    "secondSpellingRules": {
+        "value": ""
+    },
+    "soundChanges": {
+        "value": ""
+    },
+    "words": {
+        "value": "abandon, desert : v = ˈtəhnɛ\nabdomen : n = nidhr\nable, capable, ready : adj = woʊ̯\naboard : adv = tɛnˈdɛ\nabolish : v = brit\nabout : adv = dɪd\nabout, concerning, regarding : prep = sɪŋ\nabove : prep = nuss\nabsence : n = θəgz\nabundant, lush : adj = blɪx\nabuse, torture : v = ˈgɛldɛ\naccent (of language), dialect : n = gə˞nn\naccept, pardon : v = kvur\naccess : v = kɪhr\naccident, catastrophe : n = mylˈvɪ\naccommodation : n = rært\naccording to : prep = di\naccountant : n = ˈluseɪ̯l\naccumulate : v = ˈsɪhɪsk\naccurate, valid : adj = θɛndr\naccuse : v = knɔ\nache : v = nas\nachieve, accomplish : v = sul\nacid : n = gynn\nacquaintance : n = θrɛrd\nacronym : n = ˈdɪθɪf\nacross : prep = vɪlˈnoʊ̯\nact, behave : v = shəl\nactivate : v = rɛɪ̯\nactivity : n = θu\nactually : adv = ə\nacute : adj = ˈmyrud\nadapt : v = ɑˈnoʊ̯\nadd : v = grusk\naddicted : adj = slun\naddress : n = goʊ̯rst\nadministration : n = kəptr\nadmit : v = grɪŋ\nadopt : v = fyθr\nadult : n = tut\nadvance, promote, advocate : v = tjɛn\nadventure : n = ˈlɪθu\nadvertise : v = vɪx\nadvice : n = ˈθrɛrɛs\naesthetic : adj = dal\naffect : v = kvɪrn\naffection : n = rɪrtr\naffiliate : v = kvɛdhr\nafford : v = shand\nafter : prep = blɑ\nagain : adv = vy\nagainst : prep = θrɪ\nage : n = ɛn\nagency, ministry : n = shɛs\naggressive, hostile : adj = ligh\nago : adv = lɪx\nagony : n = shəm\nagree, admit, compromise : v = ˈθupɛ\nagriculture : n = sjɪ\nahead : adv = wɑ\nair, gas, atmosphere, breeze : n = gɛptr\nalcohol : n = lɛng\nalert : v = foʊ̯rn\nalibi : n = ˈblɪθɛ\nalign : v = bum\nall : det = oʊ̯\nallergy : n = lɛppr\nallocate : v = nəlpr\nally : n = nɪrθ\nalmond : n = vɛnr\nalmost, barely : adv = gɪ\nalone : adj = svuh\nalong : prep = gɑl\nalongside, as well as : prep = hjɪll\nalphabet : n = hɛˈru\nalready : adv = mikr\nalso, as well : adv = vɛkr\nalternate : adj = rʼrɪm\nalthough : conj = vɛɪ̯ˑndr\naltitude : n = ˈtumɪrst\nalways, all the time : adv = ˈlævrɪx\namateur : n = hɪll\namazing : adj = fləkr\nambassador : n = ˈdruθɛr\nambiguous, obscure : adj = ˈθʌdwɪroʊ̯l\nambition : n = ɪbr\namong : prep = hɔ\namount, quantity : n = wəm\namuse, charm : v = svɛdr\nanalogy : n = wə˞t\nanalyze, examine : v = ˈvʌlʌlfudr\nancestor : n = nɛˈrɑn\nanchor : n = vɔn\nancient : adj = vɪlpr\nand : conj = noʊ̯\nangel : n = wul\nangle, corner : n = sni\nangry, mad : adj = skɪr\nanimal, beast, creature : n = frung\nanimate : v = θrun\nankle : n = ˈgrɛtrɛ\nannounce, proclaim, affirm, testify : v = nɪcʼ\nannoy, agitate, exacerbate : v = tus\nanswer, reply, react : v = θɛs\nant : n = gʌm\nantique : adj = ˈlɛdɛrn\nany : det = flull\nanybody : pron = llə\nanymore : adv = dɪnr\nanyone : pron = blɛɪ̯ˑs\nanything : pron = næ\nanyway : adv = ˈrɛru\napart : adv = ˈɪndɪ\napartment : n = skɛn\napology : n = ˈkirtɪ\nappear, manifest : v = lɪs\nappearance (act of appearing) : n = θroʊ̯fr\nappetite : n = gæ\napplaud, hail : v = frar\napple : n = grɪ\nappliance : n = dufr\napply : v = ɛllr\nappreciate : v = gɪld\nappropriate : adj = sɑɪ̯\napproximate : adj = stɛnr\napron : n = skɛɪ̯ˑlpr\narch, arc : n = rɪn\narchipelago : n = mɔt\narchitecture : n = fɪll\narchitecture : n = luˈpæ\narchive : n = ˈbɛnɛ\narea, region, territory : n = dɪr\narena, stadium : n = θufr\nargue : v = ˈɪvɪ\narm : v = tɛrmr\narm, wing, hand, wrist, branch : n = biu̯\narmor : n = sjəlˈdə˞\narmy, military : n = skət\naround : prep = ˈgɪstɛr\narouse : v = snə\naroused (sexually) : adj = dyndr\narrange, organize, book : v = pɪm\narrest, detain : v = ˈbirɛp\narrive, happen, reach, occur : v = səm\narrogant : adj = hɛrd\narrow (sign) : n = dut\narrow (weapon) : n = ski\nart : n = vəm\narticle : n = frɪθ\nas : adv = kræ\nash, coal : n = dvɪˈsə\nask, request, appeal, demand, inquire, consult, impose : v = viu̯\nass : n = vɛp\nassassinate : v = lɪt\nassault : v = θrur\nassign : v = lɛŋr\nassume, presume, deduce : v = ˈdwɛdɪs\nasteroid, comet : n = hʊ\nastronomy : n = bɛm\nat : prep = ɪld\nathlete : n = vəhr\natmosphere, mood : n = rur\natom : n = knɔrθ\nattack : v = hlɪtr\nattend, date, go out, show up : v = sjɪθr\nattention : n = θɔr\nattic : n = tɪlhr\nattract, lure : v = θɪdh\nattractive : adj = ˈhɛdoʊ̯l\naudience : n = dinn\naudio : adj = rɪθ\naudit : v = ˈɛskɛɪ̯\naunt : n = tɔ\nauthentic : adj = urtr\nauthority : n = mɛdh\nautomatic : adj = ˈfɛtɪ\navailable : adj = yn\navenue, artery : n = nɪf\navoid : v = grɪn\nawake, aware : adj = pukr\naway : adv = hju\nawe : n = kəm\nawesome : adj = frɔr\nawful, terrible : adj = ˈskɪvɪ\nawkward : adj = əptr\naxe : n = drjoʊ̯\naxis : n = dubr\naxle : n = fɛnd\nbaby, infant, toddler : n = sjə\nbachelor : n = tɛθ\nback (of body), back (reverse side) : n = svɪθr\nbackpack : n = hikr\nbackup : n = svɛm\nbackward : adj = nɑkr\nbad, evil : adj = ɛd\nbag, luggage, baggage, packet : n = flan\nbake : v = broʊ̯m\nbalance, poise : v = frut\nbalcony : n = ki\nbald : adj = ˈhəu\nball, sphere : n = ˈroʊ̯ti\nban, prohibit, exclude, omit, restrict : v = chu\nband : n = ˈvasull\nbang, fuck : v = fyˈlɛɪ̯ˑŋr\nbank (river) : n = ər\nbank : n = druˈnurt\nbankrupt, broke : adj = ʤɛ\nbar (pub) : n = vɪdhr\nbarely, hardly : adv = ˈfjəθɔflɪldr\nbargain, discount : n = nə˞br\nbark (of tree) : n = skurd skæ\nbark : v = tɛˈdɪtə\nbarrel, cylinder, drum : n = ˈkunʤɛ\nbarrier : n = hɪldr\nbase, ground : n = bus\nbasement : n = hlɛfr\nbasic : adj = nɪrn\nbasically : adv = ˈvɛtɪrst\nbasil : n = da\nbasket : n = ˈmɑjɛ\nbass : n = tat\nbastard : n = mæˈdə\nbat (club) : n = svɛr\nbat (winged mammal) : n = θɪll\nbath : n = bjɪhr\nbattle, combat, clash : n = ˈnɪnɛn\nbay : n = ask\nbe (age) : v = kvun\nbe (exist) : v = full\nbe (located) : v = bi\nbe (permanent state), be (temporary state) : v = ɛ\nbeach : n = burtr\nbead : n = hɪm\nbean : n = gɛkr\nbear : n = uˈoʊ̯\nbeard : n = ˈnɛgə˞d\nbeat (strike), assault : v = æn\nbeautiful : adj = kvoʊ̯t\nbecause : conj = ˈgrɛtɪ\nbecome, get : v = hɛm\nbed : n = læm\nbee : n = fjun\nbeer : n = ˈoʊ̯lbəʤɛɪ̯ˑ\nbeetle : n = guhtr\nbefore : prep = ˈnɛrɑ\nbeg, appeal : v = trɪsˈkɛdr\nbehind, back : adv = blɛ\nbell : n = ˈvululɪ\nbelly : n = dɪˈθɪrd\nbelt : n = shɛŋr\nbend, fold : v = lɪkˈnɪθun\nbenign : adj = chɛ\nberry : n = ˈnylɔŋr\nbeside : prep = ˈshirta\nbest : adj = tɔrt\nbetween : prep = hrɑn\nbeverage : n = ə˞\nbeyond : prep = ɛm\nbias : n = cɪng\nbicycle : n = dvɛɪ̯ˑhtr\nbid : v = ˈkvɪrdɪθ\nbig, large, massive, immense, enormous : adj = rə\nbill, check : n = ˈɪrtɑtɛs\nbillion : num = doʊ̯\nbiology : n = nɪθ\nbird, penis : n = vəll\nbirth : n = svus\nbiscuit : n = mər\nbitch : n = hustr\nbite : v = ˈdɛfrɛt\nblack, dark, blue : adj = rədr\nblade, razor : n = vəˈtɪs\nblame, criticize : v = gən\nblanket, quilt : n = frɔnr\nblasphemy, heresy : n = ˈbrɪpə\nblast : v = dɪtr\nblend, merge : v = ˈdeɪ̯tɔpuθr\nbless : v = fræ\nblind : adj = hlutk\nblink : v = fjɪ\nblock : n = mæ\nblonde : adj = mɑn\nblood : n = ril\nbloom, blossom, flourish : v = hrə˞ng\nblow : v = sjoʊ̯l\nblur : n = luld\nboard : n = vɛgh\nboat, ship, yacht : n = fə˞rˈnɛl\nbody : n = flutr\nboil : v = wɪθr\nbolster, reinforce : v = vrɔ\nbond : v = fuˈrɪtə˞nr\nbone : n = mudθr\nbook, novel, fiction : n = fərgr\nboot : n = bjɛrˈtɛ\nborder, boundary, perimeter : n = vingr\nboring : adj = nurtr\nborrow, hire, rent : v = eɪ̯fr\nboss : n = ˈvɛlfɛ\nboth : det = skus\nbother : v = ɛɪ̯ˑrn\nbottle : n = ɛg\nbottom (lowest part), buttocks : n = stɪllr\nboulder, stone, lump : n = ˈtusundr\nbow (decorative material) : n = ˈsvɛsku\nbow (weapon) : n = ˈmɛgɛsu\nbow : v = sɑrd\nbox, crate : n = tɪr\nboy, son : n = ˈgroʊ̯drɪ\nboyfriend, girlfriend : n = θɑŋr\nbra : n = ˈifli\nbrace : v = ˈvɪrdu\nbracket : n = vɛˈmɛɪ̯ˑ\nbrag : v = ɛrn\nbrake : v = ˈdəkɪ\nbrass : n = vɛk\nbread : n = kək\nbreak, tear : v = tɑθ\nbreakfast : n = ˈɪtɪf\nbreast : n = frahtr\nbreathe : v = doʊ̯ndr\nbreed : v = ˈfɛlfæ\nbribe : v = tɔdhr\nbrick : n = nɛrt\nbridge, platform : n = æx\nbring, fetch, deliver, carry : v = lɛldr\nbroom : n = fætr\nbroth : n = rəll\nbrothel : n = frulgr\nbrother : n = ˈdɛlvə\nbruise : n = ˈturɪ\nbrush, brush (for hair) : n = skoʊ̯n\nbubble : n = baˈfrɪskɪrd\nbucket : n = mɛll\nbud, fetus, embryo, spark : n = ˈuləllr\nbudget : n = ˈskɛɪ̯ˑmɛldr\nbuffalo : n = ˈsvoʊ̯pɪn\nbug, insect : n = vɛx\nbuild, construct, erect, generate, develop, evolve : v = gɪfr\nbulb : n = ˈdrɪfrʌs\nbulk : n = slɑ\nbullet : n = ɪtk\nbully : n = fɪˈnoʊ̯\nbump : v = ˈgamɛm\nbunch, bundle, array : n = ˈvɪru\nbunker : n = əppr\nbureaucracy : n = studˈhɪ\nbureaucrat : n = bjɪs\nburger : n = ˈnuθrɪ\nburn, cook (heat food), light : v = ɪrtr\nburst, explode, blow up, shoot, erupt, vomit : v = slɛdh\nbury, embed : v = svəfr\nbust : v = tin\nbusy : adj = rɛn\nbut : conj = dillr\nbutt : n = lurr\nbutter : n = ˈhumun\nbuttocks, ass : n = roʊ̯\nbutton : n = bi\nbuy, purchase, shop : v = bɛg\nby (agent performing an action), by (author or creator) : prep = kvug\nby (using the means of), by (using a route) : prep = voʊ̯rtr\ncabbage : n = ˈgufrɪlbɛɪ̯ˑ\ncabin, hut, inn, lodge : n = frʊgz\ncabinet, drawer : n = kɛɪ̯ˑf\ncage : n = gɪll\ncake : n = wənn\ncalendar : n = ˈfɪgənr\ncalf : n = hull\ncall : v = bloʊ̯ndr\ncalm, patient : adj = əlpr\ncamel : n = hin\ncamera : n = lən\ncamp : n = frɛt\ncampaign, crusade : n = drun\ncan : v = ɪm\ncanal : n = sjɛf\ncandidate : n = ˈalɛrst\ncandle : n = vərθr\ncandy : n = skɪŋr\ncane : n = pɛn\ncannon, artillery : n = dyr\ncanoe : n = bjoʊ̯lˈfuhtr\ncanvas : n = əlˈvɪ\ncapital : n = blɔlˈbɛ\ncapsule, tablet : n = θɪndr\ncapture, seize : v = ˈɪʤu\ncar : n = hruθr\ncarcass : n = wɛrˈtʌn\ncard, badge, sheet, symbol : n = mɪr\ncare : v = vɛɪ̯ˑ\ncarpet : n = əmbr\ncarriage, cart : n = vul\ncarrot : n = fɪl\ncarry out, implement : v = lɔr\ncart, wagon : n = oʊ̯f\ncartoon : n = ˈkrɑfru\ncarve : v = gəhr\ncase, event, incident : n = bu\ncasino : n = stətk\ncast, fling : v = lɪnd\ncastle, palace : n = dvi\ncasual : adj = ˈhɑllɛ\ncat, vagina : n = gəgh\ncatch : v = sɪrn\ncaterpillar : n = taɪ̯\ncathedral, temple : n = ˈgɪrtɛ\ncause, induce, provoke, generate, exacerbate : v = vɛdr\ncaution : n = tif\ncave, tomb : n = vɪlˈvɛ\ncelebrate, praise, worship : v = ˈgrɔmɪm\ncelebrity : n = gɛn\ncell : n = vɪl\ncellar : n = ˈərnyst\ncement : n = rurθ\ncensus : n = am\ncenter, heart : n = ˈnɪtoʊ̯dh\ncentury : n = θɑl\nceremony : n = sɛngr\ncertain : adj = ud\ncertify : v = koʊ̯m\nchain, bracelet, link : n = kvɪ\nchalk : n = vasˈkɪ\nchallenge : n = ˈroʊ̯bɪ\nchampion : n = sluldr\nchance, odds : n = bufr\nchange, modify : v = nɛ\nchannel (of water) : n = fæ\nchant : v = vʌ\nchaos : n = tə˞n\nchapter : n = hrɪ\ncharacter, persona : n = ˈnuskɪtɔ\ncharcoal : n = rʌ\ncharge : v = ɪs\ncharity : n = fɔl\nchart, diagram : n = θrə\nchase, stalk : v = dɑˈləθɛ\nchasm, cleavage : n = θəgr\nchat : v = hrə\ncheap : adj = tɛss\ncheck, examine, confirm : v = ˈpɛθɛn\ncheek : n = gənr\ncheer : v = gɑ\ncheese : n = ˈvurdɛɪ̯ˑ\nchemical : n = knər\ncherry : n = ˈhrɑtə\nchest : n = svək\nchick (girl) : n = hərˈtə\nchicken, fowl, poultry : n = lrɑ\nchief : n = fɛrm\nchild, kid, offspring : n = nɪ\nchime : n = lundr\nchin, jaw, beard : n = rul\nchoir, chorus : n = vroʊ̯\nchoke, gag : v = cɪrn\nchoose, select, elect : v = shɛ\nchop, slash : v = ˈygshall\nchord : n = svəŋ\nchuckle : v = ˈəgəm\nchurch, chapel, religion : n = vɛɪ̯\ncigarette, cigar : n = vʊm\ncinnamon : n = sly\ncircle, sphere : n = ˈrɪstɪs\ncirculate : v = ˈskɔnirtr\ncircus : n = frɪˈsɪ\ncitadel : n = ˈkɛlbə\ncity, downtown, metropolis : n = bitk\ncivilian, citizen : n = ˈvinɪ\ncivilization : n = slin\nclaim, allege, testify : v = kɪn\nclan, kin : n = tɛrtr\nclap, pat : v = rɛɪ̯ˑθ\nclarify : v = stə\nclash : n = ˈɪsvy\nclass : n = θɪ\nclassic : adj = svim\nclaw : n = ɛrt\nclay, brick : n = ɪf\nclean : adj = θɪtr\nclerk : n = sɛlˈdɛr\nclick : n = ɔll\ncliff : n = bɪr\nclimb, escalate : v = ˈkɪnaɪ̯x\ncling : v = fɛstr\nclinic : n = rɑˈθrɔx\nclip, snip, trim : v = veɪ̯l\nclock : n = haɪ̯\nclose, intimate : adj = rɛ\nclose, shut, expire, block : v = θɛ\nclosure : n = urθr\ncloth : n = sɛf\nclothes, clothing : n = vɛn\ncloud, mist : n = ˈsvoʊ̯ka\nclove : n = bjudhr\nclown : n = hrɛd\nclutter : n = vʌn\ncoach : v = leɪ̯\ncoat, jacket, cloak : n = hljɛdhr\ncocktail : n = hum\ncoconut : n = shʌld\ncode : n = nɪdhr\ncoffee : n = blin\ncoffin : n = ˈrɛnnɛ\ncoherent : adj = rɛf\ncoil : n = hlum\ncoin, currency : n = θuptr\ncoincidence : n = skɛhr\ncold, crisp : adj = ə˞kr\ncollar : n = ˈfɛrɪl\ncolony : n = ˈvɛθɪld\ncolor, hue : n = ʤoʊ̯\ncomb : n = shɪppr\ncombine : v = trɪr\ncomedy : n = ˈdɛvrbləl\ncomfort : n = eɪ̯\ncomic : adj = ˈsɛlæn\ncommand, supervise : v = nɛndr\ncomment, commentary : n = soʊ̯l\ncommission : n = wɪrm\ncommittee : n = mun\ncommon, normal, regular, medium : adj = oʊ̯n\ncommunity : n = gə˞θr\ncommute : v = doʊ̯n\ncompact : adj = ˈnɑhu\ncompany, business, enterprise, commerce : n = nɪrt\ncompare, contrast : v = drʌ\ncompass : n = blɛˈrɪngr\ncompassion, mercy, empathy, sympathy : n = vərd\ncompatible : adj = ɪk\ncompel : v = ˈɔkən\ncompensate : v = ˈsvɪlɪt\ncompete : v = ˈgɪhnɛ\ncompetent : adj = gyrdh\ncomplain : v = ræn\ncomplement : v = bɛsk\ncomplete, achieve, accomplish : v = flɛss\ncomplex : n = vɪch\ncomplicated, complex, intricate : adj = tɑll\ncompliment : n = ə˞nr\ncomply, conform : v = bjɛrˈvu\ncompose : v = ɛss\ncomposite, hybrid : n = wunr\ncompost, fertilizer : n = drə˞\ncompound : n = kvɪn\ncon : n = wængr\nconcentrate : v = nɪsk\nconcept, doctrine : n = ɪˈgɪsk\nconcrete, pavement : n = frɛld\ncone : n = kɪdr\nconference : n = froʊ̯rgr\nconfess : v = skurt\nconfident : adj = bjɪrr\nconfidential : adj = ˈlɪsɛ\nconfine : v = kɪl\nconfirm, validate, verify : v = dɛld\nconfront, resist : v = fəm\nconfuse, distract : v = snəˈdy\ncongregate, rally : v = ˈmyskɪ\nconnect, attach : v = svy\nconquer : v = frudh\nconscious : adj = ʤu\nconsolidate, incorporate : v = ˈkvɛroʊ̯\nconspire : v = ˈhvæhɪr\nconstitution : n = ig\ncontact : n = skɪbr\ncontain : v = ˈsælirm\ncontainer : n = lɪˈkə\ncontempt : n = frɛŋ\ncontent : n = ˈvuskɛ\ncontinent : n = ruˈtɛ\ncontinue, keep, last, maintain : v = slɪ\ncontract, pact : n = hʌ\ncontradict : v = drɛɪ̯ˑndr\ncontribute : v = kɛɪ̯ˑr\ncontrol : v = ɛk\ncontroversy : n = bɪf\nconvenient : adj = wurst\nconvert : v = vʊθ\nconvict : v = ˈdɪdæ\ncook (heat food), cook (prepare food) : v = ku\ncook (prepare food) : v = lɛsk\ncool (fashionable) : adj = hljarn\ncool (slightly cold) : adj = ˈhwuθur\ncooperate, collaborate : v = θvi\ncopper, bronze : n = shur\ncopy, imitate, mimic, mock : v = ɑf\ncoral : n = əŋr\ncore, nucleus, embryo : n = mə˞\ncork : n = ɪdˈhwy\ncorn : n = bluθ\ncorrupt : adj = rɛrd\ncost : v = dɪs\ncostume, garment : n = θɔtk\ncotton : n = mɛɪ̯ˑ\ncough : v = vɪdh\ncould : v = θɪn\ncounsel : n = koʊ̯r\ncount, calculate : v = vɪsk\ncounter (flat, elevated surface) : n = θɛɪ̯ˑ\ncountry : n = nɪs\ncourier : n = mɪnn\ncourse, direction : n = kvə˞\ncourt, tribunal : n = vuvr\ncourtesy : n = aθr\ncourtyard : n = svɑl\ncousin : n = aɪ̯rr\ncove : n = muss\ncover up : v = ˈvɛɪ̯ˑsnɛlpr\ncover, protect : v = fɛndr\ncow : n = nɛllr\ncozy : adj = ˈnɪθʌ\ncrab : n = θɛppr\ncrack, fracture : n = ˈhjɛndɛldr\ncram, jam : v = dwoʊ̯\ncrash, collide : v = θɔ\ncrater, cavity : n = vɑr\ncrawl : v = dɪndr\ncrazy, insane : adj = hɔmr\ncream, milk : n = ˈkvɛkɛ\ncreate, found : v = æs\ncredible : adj = θɛn\ncredit (of money) : n = hɛnr\ncredit (recognition) : n = sɛk\ncreek : n = ˈbɪdæs\ncrest : n = vaɪ̯t\ncrew : n = oʊ̯s\ncrime : n = sjihr\ncrisis : n = duht\ncriteria : n = svuht\ncritique : n = mɛfr\ncrop : n = dɛɪ̯ˑdr\ncross : v = kvoʊ̯k\ncrude, vulgar : adj = əˈvɪ\ncruel, nasty : adj = ɛɪ̯ˑll\ncrumb : n = wɛllr\ncrunch, chew : v = skoʊ̯\ncrush, grind, chew, crumble, crumple, ruffle : v = blənr\ncrust : n = dɪld\ncry, shout, scream, moan, sob, weep, mourn : v = skɛrn\ncrystal, prism : n = nɪl\ncube : n = ɪlpr\ncuff : n = hlɪl\ncull : v = ˈsnɛbɪθoʊ̯l\ncult : n = θəllr\nculture : n = daɪ̯\ncup : n = frɛ\ncupboard, wardrobe : n = hiˈtʌ\ncure : v = vəgh\ncurious : adj = kɛnr\ncurrent : adj = drjə\ncurrent, wave (ocean) : n = kɑɪ̯rmr\ncurse : v = mix\ncurtain, veil : n = θrɪr\ncustody : n = ˈɪkɪ\ncustom : adj = sɪθr\ncustom, tradition : n = ɪˈrul\ncustomer, patron : n = bjə˞\ncut, divide : v = skɪl\ncute : adj = ət\ncynic : n = θɛf\ndagger : n = bru\ndairy : n = θə˞r\ndam : n = vɛˈtəllr\ndamage : v = drɛfr\ndamn : adj = gɪˈtɔ\ndance : v = θvoʊ̯\ndanger : n = noʊ̯θr\ndangle : v = skidr\ndare : v = θyd\ndarling : n = ˈɛtɛ\ndart : n = snɛtr\ndash : n = dɛll\ndaughter : n = reɪ̯\nday, date : n = ɑ\ndeaf : adj = lɛt\ndeal : v = skɛˈrɛ\ndean : n = kal\ndebate, negotiate : v = aɪ̯r\ndebt : n = kvɛθr\ndecay : v = siu̯\ndecide, choose : v = kinr\ndecorate : v = sɛll\ndeed : n = ˈvardu\ndeep, serious : adj = hɪngr\ndefault : n = shəss\ndefeat, beat : v = luch\ndefecate : v = hwəl\ndefend, protect, secure, prevent, avert, deter, intercept : v = ru\ndefine : v = reɪ̯m\ndefy, violate : v = ˈoʊ̯lun\ndelay, postpone, stall : v = sɑkr\ndeliberate : adj = shɪn\ndelight : n = ˈfʌgɔl\ndeliver : v = ˈnilə˞s\ndemise : n = fɪnn\ndemocracy : n = ə˞ll\ndemographic : n = chɪn\ndemon, monster, goblin : n = mɔnr\nden, apartment : n = simr\ndenounce : v = rɪss\ndeny, veto : v = tɑtr\ndepend, rely on : v = vɛr\ndeploy : v = vuf\ndepressed : adj = tɪˈljɛx\ndescendant, offspring : n = ful\ndescribe : v = ɪˈtɛ\ndesert : n = nərtr\ndeserve : v = sətr\ndesign : n = vɪll\ndesire : v = kvɛm\ndesk, office : n = ə˞s\ndespair : n = vægr\ndesperate : adj = mɛndr\ndespite : prep = vɪhr\ndestination : n = mɛm\ndetail : n = θɪˈrɛk\ndetain : v = dɔt\ndeteriorate : v = frubr\ndevice, apparatus, gadget : n = blɪt\ndevil : n = kəmr\ndevise, come up with : v = nɛˈtyt\ndevote : v = ˈbɛrpɛɪ̯ˑrd\ndew : n = mɛkr\ndial : v = ˈgrækɛtɛ\ndiameter : n = ɪrv\ndiaper : n = dwoʊ̯l\ndiary, memoir, calendar : n = buk\ndictator : n = sɛθ\ndictionary : n = mɛngr\ndie : v = shun\ndiet : n = ˈwɛθur\ndifferent, distinct, unique : adj = θrɛr\ndig : v = shudr\ndignity : n = kɛn\ndine : v = dvɪθ\ndinner : n = svild\ndirect : adj = ˈgɛsoʊ̯\ndirt, mud : n = tɑ\ndisappoint : v = θɪhtr\ndisaster, catastrophe : n = ˈdɪrɛ\ndischarge : v = mʌrn\ndisclose : v = sɪm\ndiscourage, deter : v = teɪ̯rm\ndiscourse, rhetoric : n = svɛdh\ndiscuss, consult : v = fɪrmr\ndisease, plague : n = æ\ndisguise, conceal : v = pillr\ndisgust : n = hljɑ\ndish, bowl, platter : n = ˈɪlɪng\ndismiss, expel : v = dɛɪ̯r\ndisplay, demonstrate, reveal : v = wɛɪ̯ˑr\ndispose : v = dəlpr\ndisrupt : v = lɛɪ̯n\ndissolve, fade : v = bji\ndistance, span : n = ˈhoʊ̯rnoʊ̯\ndistinguish, discriminate : v = ˈəsnə\ndistort : v = ˈunɛɪ̯\ndistract : v = grɛˈtirv\ndistress : n = arm\ndisturb : v = svət\nditch : n = frɛss\ndivert, distract : v = kɛl\ndivorce : n = blas\ndo, make, prepare, compose, establish, compel, cause : v = grur\ndoctor : n = bɛɪ̯ˑ\ndoctrine : n = vɛrˈgɛr\ndodge : v = grʌˈrɑlfr\ndog : n = ɪˈθɛ\ndoll : n = vɔˈllu\ndome : n = stæ\ndominate : v = gɪn\ndonate : v = duŋr\ndoor, gate : n = lɛndr\ndot : n = hvəllr\ndouble : n = dɛn\ndoubt : v = noʊ̯r\ndove : n = ˈgrɛkə˞n\ndown : adv = wɛsˈtoʊ̯\ndraft : n = dvidhr\ndrag, draw : v = svə˞\ndragon : n = nɪt\ndrain : n = drɪθr\ndrama : n = knɪ\ndrape : v = hlə\ndream : n = li\ndress, uniform : n = lɪrm\ndrill : n = hɛθr\ndrip, splash : v = læmr\ndrive, chase, ride, steer, navigate : v = dɑdh\ndrown, drench, saturate, suffocate : v = naɪ̯ldr\ndrug, medicine : n = vɑ\ndrunk (inebriated) : adj = svɪrˈnɪ\ndry, crisp : adj = kɛrd\ndual : adj = bry\nduck, crouch : v = gərt\ndue : adj = nɪnr\ndumb (speechless) : adj = hɛn\ndumb : adj = kund\ndump : n = kɪld\ndune : n = ˈθɛsuvr\ndungeon : n = ˈɛrnə\nduring : prep = fuvr\ndusk, twilight : n = ˈsvykystr\ndust, powder : n = dɑr\ndwarf : n = blɪnn\ndynamics : n = ˈləsθɑ\neach : det = ɪx\neager : adj = θɑn\neagle : n = bɪˈvɛnu\near : n = noʊ̯l\nearly : adj = vu\neast : n = gɔ\neasy : adj = jyn\neat, drink, bite, sip : v = kʌdh\necho : n = vɛθr\neclipse : n = lɛhr\neconomy : n = wɛɪ̯x\nedge, limit : n = ˈdijəngr\nedit : v = tɪs\neducation : n = ifr\neel : n = θɑkr\neffect : n = drɛss\neffort : n = knɛ\negg : n = krɪtr\neight : num = hvoʊ̯r\neither : adv = ləl\nelaborate : v = ˈbləvɛt\nelbow : n = turd\nelectricity : n = vɪrr\nelegant : adj = θɛrm\nelf : n = fə˞l\nelite : adj = wɪn\nelixir : n = θa\nelk : n = skɛp\nelse : adv = θɪnr\nelsewhere : adv = vrɑ\nelusive : adj = bɪrt\nembargo : n = θɑs\nembark : v = ˈdvɛrpɛ\nembarrass : v = ny\nembassy : n = hə˞n\nemit : v = ˈrɛvɪ\nemotion, passion : n = bləˈblɛ\nemperor : n = rəss\nemphasis : n = nɛlpr\nempire : n = bɔ\nemploy : v = ˈkɪmɪ\nempty, naked, nude : adj = hɛˈpɪs\nencounter : v = ɪvr\nencourage : v = stə˞\nendangered : adj = θʌ\nenemy, villain, rival : n = ˈfɛrɔll\nenergy : n = ur\nenforce, impose : v = ɪˈθoʊ̯s\nengine, motor : n = flɑ\nenjoy : v = grɪr\nenough : det = θɛlhr\nenrich : v = ˈhɑrɛɪ̯ˑ\nenter, invade : v = hvɔn\nenthusiasm : n = gɪdr\nenvironment : n = gɔs\nequal, equivalent : adj = skuldr\nequipment : n = bloʊ̯r\nerection : n = ˈblʊpɛllr\nerode : v = svudr\nescape, flee, retreat : v = grumr\nescort : v = skʌllr\nestablish : v = furr\netcetera : adv = nəŋ\nethic, integrity : n = ˈətɛ\nevaporate : v = fjir\neven : adj = kvu\neven : conj = muˈɛ\nevening : n = ɪˈdɔm\neventually : adv = θəngr\never : adv = fu\nevery, each : det = ˈəluda\neverybody : pron = ˈhɪθu\neveryone : pron = gɪtr\neverything : pron = sʌ\nevidence, clue : n = ˈhwɪllungɛll\nevil : adj = kru\nevoke, provoke : v = frɪˈrərn\nexact, precise : adj = koʊ̯l\nexaggerate : v = wi\nexample : n = hvənr\nexcellent, fantastic, wonderful, fabulous, terrific, superb : adj = bir\nexcept, besides : prep = vɪrθ\nexcerpt : n = svi\nexcess : adj = stjɪ\nexcite : v = ˈsnɛnoʊ̯dhoʊ̯\nexclaim, proclaim : v = rɛlmr\nexcrement, shit : n = gun\nexcuse : n = rɪllr\nexecute : v = bjɪm\nexempt : adj = ˈkɛkətk\nexercise : v = rɛht\nexert : v = tɛngr\nexhibit : n = dɛl\nexile : n = bɑn\nexist : v = vrarr\nexit : n = fraɪ̯rn\nexotic : adj = θɪs\nexpect, anticipate : v = flæ\nexpel, fire (from job) : v = saˈleɪ̯r\nexperience : v = wappr\nexperiment : n = ˈnɑpnɪn\nexpert, specialist : n = ˈdə˞tə\nexplain, discuss, debate : v = fɪŋ\nexplicit : adj = svɑr\nexplode, blow up : v = kvirr\nexploit : v = skɪˈtus\nexplore, seek : v = koʊ̯br\nexport : v = frɪtr\nexpression : n = ˈɪrgɛ\nextend : v = hjɪr\nextinct : adj = wəˈkɛng\nextinguish, put out : v = ˈlulɛnun\nextreme, intense, outrageous, radical : adj = ˈrɑduld\neye : n = θə˞\nfabric, textile : n = hoʊ̯lˈdɪθ\nface : v = θurdh\nface, forehead, brow, side, front, expression, facade, mask : n = gɪm\nfact, evidence : n = gus\nfactor, variable : n = θut\nfactory, laboratory : n = blɑk\nfade : v = hvɛgr\nfail : v = ɑl\nfaint : v = hoʊ̯ng\nfair, just : adj = kveɪ̯gr\nfairy : n = ɪrdh\nfaith : n = fɪndr\nfake : adj = məsˈnɛŋr\nfall, drop, collapse, dive, stumble, topple, slip : v = və˞\nfalse : adj = rəθr\nfamily, tribe, kin, clan : n = vru\nfamous : adj = lə\nfan (enthusiast) : n = wɑtr\nfan : n = ɪˈmɔθu\nfancy : adj = skə˞\nfantasy : n = muf\nfar, away : adv = rə˞l\nfarm, pasture, prairie : n = stɛl\nfascinate : v = snɪ\nfast, smart, intelligent, clever, wise, quick : adj = sɛl\nfat, big, obese : adj = lu\nfather : n = blɪn\nfatigue : n = stjus\nfavor : v = matk\nfavorite, popular : adj = ˈlaɪ̯nər\nfear : n = koʊ̯rr\nfeast, festival : n = stjɛ\nfeather : n = ɪllr\nfeed : v = blɑs\nfeel : v = dra\nfeign : v = hvɛd\nfelony : n = sadθr\nfemale : n = uˈmɑlfr\nfence : n = sjəm\nferry : n = lɪnr\nfertile : adj = gɑm\nfew : det = froʊ̯\nfiber : n = gill\nfield, farm, garden : n = θɑ\nfight : v = droʊ̯\nfigure : n = gʊt\nfile : n = ˈθəleɪ̯ppr\nfill : v = mim\nfilm : n = vɛldr\nfilter : n = kur\nfin (of fish) : n = fɛɪ̯\nfind, detect, encounter, uncover : v = ˈmɛmɪ\nfinger, toe, hook : n = grɪθ\nfinish : v = θveɪ̯x\nfire : n = lɪˈθɑllgrɪ\nfirearm : n = fə˞s\nfirm, rigid, stiff, stubborn, tight : adj = sjə˞\nfirst : num = nə\nfish : n = bjɛ\nfit, belong, conform : v = dæf\nfive : num = foʊ̯\nfix, mend, repair, heal, cure : v = ˈhruldɛsk\nfixture : n = ˈwoʊ̯neɪ̯\nflag, banner : n = dwɛ\nflake : n = ɛˈrɛ\nflame : n = ˈwɪmil\nflash : v = kɪnd\nflat : adj = tɛˈhə\nflavor : n = təlpr\nflaw, defect, scar : n = ˈrɛsɪ\nflesh : n = lʌ\nflexible : adj = mærv\nflick : v = tɪrst\nflirt : v = shi\nflirtatious : adj = kɪldr\nfloat, skim : v = ɛlpr\nflood : n = larm\nfloor, ground, bottom (lowest part) : n = fju\nflour : n = ˈdoʊ̯du\nflower : n = həlpr\nflu : n = ruk\nfluent : adj = frɔ\nfluid, liquid : n = sjeɪ̯\nfluke : n = chiθ\nflush : v = ʤɛnr\nfly : n = ɪl\nfly : v = mənr\nfoam : n = dɪll\nfocus, aim, intend : v = blund\nfog : n = dwu\nfoil : n = shɔˈlə\nfolder, wallet : n = fɛdhr\nfollow, stalk : v = nʊf\nfood, nutrition, cuisine : n = θur\nfoot : n = mu\nfootpath, sidewalk : n = dwərr\nfor (a period of time or length of distance) : prep = uss\nfor (in favor of) : prep = uŋ\nfor (the purpose of) : prep = mu\nforecast : n = ˈshulgu\nforefather : n = ˈfrərgə\nforeign, external : adj = gɛrn\nforesee, anticipate : v = ˈwɪssə\nforest, jungle : n = ˈɛbɑ\nforever : adv = əgr\nforge : v = ˈkulbəgr\nforget : v = mas\nforgive, excuse : v = slɪnk\nform : n = ut\nformal : adj = fla\nformula : n = hrɛɪ̯ˑ\nfort, castle : n = ka\nforward : adv = kɪθr\nfossil : n = dɛlfr\nfoster : v = nʌ\nfound, establish : v = ˈshɪndɛ\nfoundation : n = kɑn\nfour : num = dvəbr\nframe, hull : n = grun\nfranchise : n = ˈrɑlvɛr\nfraud : n = ɪdˈhweɪ̯θ\nfree : adj = ək\nfreeze, paralyze : v = kɛng\nfrequent : adj = stu\nfresh, crisp : adj = sturr\nfriction : n = ˈɪrbind\nfriend, acquaintance : n = gɪl\nfringe, mane : n = hwɛɪ̯ˑ\nfrog : n = ræ\nfrom : prep = lɛnd\nfront, facade : n = vɪt\nfrown : v = brɑ\nfruit : n = frɪ\nfrustrate : v = woʊ̯ˈtɛ\nfry : v = θɔll\nfuck : v = dil\nfuel : n = drɪθ\nfulfill : v = gɛbr\nfull : adj = hul\nfun : adj = nɪˈθung\nfund : n = dɪkr\nfuneral : n = brɛrd\nfungus, mold : n = kaɪ̯\nfunny, absurd : adj = dʌ\nfur, mane : n = ˈrunɛ\nfurniture : n = svɛld\nfurthermore : adv = moʊ̯rr\nfury : n = ˈədɛvu\nfury, frenzy, seizure : n = gɪg\nfuse : n = ˈbliwɪ\nfuture, destiny, fate : n = mɛn\ngadget : n = ˈθəgə\ngalaxy : n = wɪl\ngallery, museum : n = hrərˈgy\ngamble : v = ˈpɪθgroʊ̯\ngame, sport : n = grɪc\ngap, void : n = iθ\ngarbage, trash, rubbish, sewage : n = mɪn\ngarden, park : n = fɪn\ngas : n = ɑm\ngasp, pant : v = ˈpɛrus\ngather, assemble, summon, compile : v = cimr\ngauge : n = ding\ngay, homosexual : adj = vɛrd\ngender : n = ˈhɛrtoʊ̯n\ngene : n = ˈsɛndə\ngeneral, generic : adj = nɪnˈdɛ\ngenerate, spawn : v = θvɪn\ngenetics : n = kun\ngenocide : n = mɪrˈpɛ\ngentle : adj = blɪdr\ngerm, bacteria : n = lunr\ngesture : n = ˈmɪgoʊ̯\nget, obtain, possess, acquire : v = ˈəlɛ\nghost : n = ɛhtr\ngiant : n = kvʊ\nginger : n = ˈdɛnɪndr\ngirl : n = si\ngive, donate, present, transfer : v = wɪ\nglacier : n = ˈfɛpɛfr\nglance : v = aɪ̯n\nglass : n = ˈlɪblɛɪ̯ˑl\nglide, slide, drift, slip : v = iˈduhr\nglory : n = dy\nglove : n = lɛrtr\nglow, blush : v = vɛrt\nglue, paste : n = shə\ngo down, descend : v = ɛfr\ngo, pass, happen, occur : v = kɪrr\ngoal, target, purpose : n = tɛɪ̯ˑs\ngoat : n = gæˈnɛt\ngod : n = ɪlgr\ngold : n = fɛŋr\ngood, hot (attractive), nice, moral, warm : adj = hvɪmr\ngoodbye : interj = ˈfrujə\ngoose : n = rɪˈnɪr\ngorgeous, handsome, attractive : adj = hra\ngossip : n = ˈnɪsdɛ vur\ngouge : v = coʊ̯\ngovernment : n = skild\ngrab, clutch : v = oʊ̯r\ngrace : n = brɛl\ngrade, degree : n = ʤɛk\ngradual : adj = ˈɛnə˞\ngraduate : v = fə˞ndr\ngrandfather : n = θuˈtan\ngrandmother : n = snɛr\ngranite : n = vak\ngraph : n = θrɛss\ngraphic : n = uˈdətk\ngrass, lawn, pasture : n = ˈvɛmɪ\ngrave : adj = shɛld\ngrave : n = ufr\ngravel : n = gɛrt\ngravity : n = gur\ngray : adj = lɛˈkruθr\ngraze (feed on) : v = drɑ\ngraze (touch), scrape : v = brurn\ngreat : adj = dɛdr\ngreed : n = ˈhrɪhjull\ngreen, sick, raw : adj = gam\ngrid, network : n = ˈhrilɛ\ngrill, barbecue : n = ˈɪfrɪm\ngrim : adj = nɑ\ngroan, moan : v = vɪbr\ngross : adj = ˈləfɛld\ngroup, community, gang, crowd : n = hɪ\ngrow up, sprout : v = ˈdvɛlur\ngrowl : v = voʊ̯r\ngrowth : n = hvə˞\ngrunt, groan : v = bləm\nguard : v = kvæθr\nguerrilla : n = geɪ̯ŋr\nguess, predict, estimate : v = səhr\nguest, patron : n = sha\nguide : n = nɛx\nguilt : n = vɛtr\ngum : n = hvɛnn\ngun, rifle : n = blɛɪ̯ˑngr\nguy : n = ləθr\nhabit, ritual : n = vin\nhabitat : n = θɛrd\nhag (old woman) : n = va\nhaggle : v = lɪrt\nhair (of body), fur : n = lis\nhair (of head), hair (of body) : n = fɪm\nhalf : n = tull\nhallway, corridor : n = θɛl\nhalt, stall : v = ˈikvɪrm\nham : n = kiˈbrɔ\nhammer : n = θus\nhandcuff : n = ˈnuflur\nhang : v = shəxˈtoʊ̯rr\nhang out : v = fəf\nhangover : n = θrɪbr\nhappy : adj = blal\nharass, intimidate : v = kɔn\nharbor, port : n = ˈbɔmɛngr\nhard, difficult : adj = lrɪ\nharm : v = dvoʊ̯\nharmony : n = ˈwɛrnɛkɪ\nharvest, autumn : n = ˈlɛtɪ\nhat : n = lɪn\nhatch : n = kə˞ŋ\nhate : v = ɛˈdrɪx\nhaunt : v = kɪmbr\nhave, must, have to, include : v = ski\nhawk : n = fɛmr\nhay : n = gər\nhead : n = fry\nhealthy : adj = ˈdufrɪnu\nheart : n = rɛɪ̯ˑnr\nheaven, paradise : n = ˈdɛlnu\nheavy, serious : adj = ɪld\nhedge : n = hwy\nheel : n = sjɛ\nheir : n = lɪfr\nhell : n = goʊ̯r\nhello : interj = ˈblɛθɛlmr\nhelmet : n = vɪm\nhelp, assist : v = lɪ\nherb : n = ˈfɛflɪr\nherd, flock : n = ˈɛrɪru\nhere : adv = gi\nheritage : n = nəˈθɪ\nhero, idol : n = sə˞nr\nhide, conceal, lurk : v = ˈhɛllɛ\nhierarchy : n = ˈrunknim\nhigh, tall : adj = mɔn\nhighlight : n = əs\nhike : v = hy\nhill, slope, slant : n = dɛr\nhip : n = θvysˈti\nhire, rent, recruit : v = um\nhit, collide : v = θɪllr\nhoax : n = fun\nhobby : n = mɪtr\nhole, gap, cavity, well, armpit : n = liθ\nholiday, vacation : n = nɛsk\nhollow : adj = ˈdɑrɛptr\nholy, sacred : adj = ɪdhˈgɪkr\nhome : n = ˈθəsu\nhomeland, motherland : n = wɛˈnoʊ̯rtr\nhoney : n = blɔˈlɛ\nhonor : n = dɑm\nhood : n = ˈθɪdhu\nhop : v = iu̯r\nhope : v = θɛrtr\nhorizon : n = ə˞nd\nhormone : n = ənn\nhorn, penis : n = nɪr\nhorse : n = duch\nhose : n = lɛhtr\nhost : n = kɛf\nhot (attractive) : adj = ˈrɪvɛ\nhot, hot (attractive) : adj = gɛstr\nhotel, inn, lodge : n = dum\nhour, time : n = hɛldr\nhouse : n = ɛrm\nhover, linger : v = rɪppr\nhow : adv = val\nhowever : adv = bri\nhub : n = dɛlhr\nhuddle : v = ˈlɛlə\nhug, embrace, cuddle, squeeze : v = ˈɪtoʊ̯\nhuge : adj = bɛn\nhumble, modest, shy : adj = ˈθrudru\nhundred : num = bɪ\nhungry : adj = və˞f\nhurdle : n = blɪl\nhurricane : n = ʤɛl\nhurry : v = skəkr\nhurt, injure : v = bləll\nhusband : n = dvɪr\nhut, shack : n = nɛkr\nice, diamond : n = mɪkr\nicon : n = luˈdrɛlɪθ\nidentify, point out, establish, diagnose, refer : v = unr\nidiot, fool : n = llɪ\nif : conj = blɪvr\nignite : v = mɛgr\nignorant : adj = frɪr\nignore, neglect, overlook : v = ˈdɛdhwɛ\nillness : n = trɑ\nilluminate : v = θɪdˈhwoʊ̯\nillusion : n = sɑ\nillustrate : v = nɛnn\nimage : n = ˈlɛɪ̯ˑstɪ\nimminent, pending : adj = rum\nimmune : adj = ɪˈɛs\nimpact : n = cu\nimpair : v = dɑkr\nimport : v = bɛˈnɪppr\nimportant, significant : adj = i\nimpress : v = vɛm\nimprove, enhance, refine, amend : v = shɪ\nimpulse : n = svɛf\nin, within, into : prep = drjuθ\nincentive : n = ˈɛtɪtr\nincluding : prep = dvɪrst\nincorporate : v = lɛrmr\nincrease, expand, enhance, boost, gain, exacerbate : v = dæ\nindependence : n = stjul\nindustry : n = ɪn\ninfect, contaminate : v = skɑn\ninfinite : adj = ˈθruθɛ\ninflict : v = rɑf\ninfluence : v = hɪl\ninformation, data : n = ˈumɛ\ninhabit : v = shɪs\ninhale : v = vɑl\ninherit : v = ˈɛnɛ\ninject, implant, embed : v = ˈnɔkɪl\nink : n = bliθ\ninnocent : adj = hrɛt\ninnovate : v = saɪ̯l\ninside : prep = shufr\ninsight : n = hlɪ\ninsist, demand : v = ˈnirɪ\ninspect, scrutinize : v = rɑndr\ninspire : v = dɑdhr\ninstall, set up, prepare : v = brɪˈrɛ\ninstant : adj = nyˈlɛ\ninstead : adv = urθ\ninstitute : n = svɔ\ninstrument, equipment : n = fɛgr\ninsult, offend, mock : v = baŋr\ninsure, assure, guarantee, vow, promise : v = fɪr\ninsurgent : n = nuˈɪ\nintend : v = lɑ\ninteract : v = hlɑ\ninterest : n = ˈhɪndlə\ninterfere, intervene : v = ˈfudhɛ\ninterior : n = lɔlfr\ninterrogate : v = ɑlhr\ninterrupt : v = ˈtɪtjɪ\nintervene : v = bjɪnˈdu\ninterview : n = coʊ̯l\nintestine : n = vrɔˈru\nintimate : adj = ˈɛdhu\nintroduce : v = ˈhardɔll\ninvade : v = krun\ninvent : v = lɪˈsɪ\ninvest, deposit : v = ˈmoʊ̯rʊ\ninvite : v = wɪss\ninvolve, entail : v = hwoʊ̯ld\nirony : n = ˈryɛ\nisland : n = ˈməru\nissue, concern, problem : n = vɪ\njam : n = dvutr\njar, vase : n = my\njealous : adj = dumr\njelly : n = hɪtr\njerk : v = θappr\njersey, sweater : n = flaɪ̯\njewel, gem, pearl : n = kɪndr\njob, career, task, role : n = ˈludju\njoin, connect, attribute : v = skɑ\njoke, humor : n = dærv\njourney, tour, voyage : n = dɪngr\njoy : n = vɛdh\njudge : v = ˈmə˞lɪ\njuice, syrup, blood : n = ˈɔldɪndu\njump, skip, bounce, skim : v = nɔstr\njunk : n = ˈloʊ̯sɛ\njust, merely : adv = wɑllr\njustice, tribunal, law : n = huss\nkeen : adj = bɛr\nkeep, store, save (put aside), hold : v = sky\nkettle : n = tʌs\nkey : n = væ\nkick : v = hrɛld\nkidnap : v = mɛk\nkidney : n = vɛt\nkill, murder : v = kɪ\nkindergarten : n = θɪldr\nking : n = də\nkiss : v = hreɪ̯\nkit : n = tlɛ\nkitchen : n = θrʊn\nknee : n = ˈʌnɛrnu\nknife : n = dətr\nknight : n = drɛrm\nknock : v = kɛɪ̯ˑ\nknow (a fact), know (be acquainted with) : v = blɛt\nknow (be acquainted with) : v = hərst\nknowledge : n = hɛr\nlabel, tag : n = əngr\nlace : n = ˈvæθudh\nlake, pond : n = tɛɪ̯ˑng\nland, earth, planet : n = svəθ\nlanguage : n = fɑ\nlap : n = ˈgunɪbr\nlast (final), former : adj = dɪdr\nlast, previous : adj = rɛrn\nlater : adv = rɪrd\nlaugh : v = hə˞\nlaunch, cast, embark : v = ˈluldrvɪ\nlaundry : n = mɪngr\nlava : n = fær\nlaw : n = hroʊ̯\nlawn : n = till\nlay : v = hljɪθ\nlayer : n = gɛɪ̯ˑm\nlazy : adj = ˈdɛθut\nlead, direct, conduct : v = fɪdhr\nleaf, foliage : n = ˈdunɛ\nleak : v = ɛhr\nlean, tilt, bow (greet) : v = θrɪnn\nleap : v = gɪdh\nlease : n = hlɪk\nleast : adv = nuˈjɪm\nleather : n = ˈgrɑrull\nleave, depart, evacuate, quit, give up : v = fimr\nlecture, sermon : n = kɛɪ̯ˑng\nledge : n = ˈləgər\nleft : adj = diptr\nleg, thigh : n = ˈhɪnɪ\nlegend, myth : n = snəgh\nleisure, recreation : n = rɪˈnɛndə\nlend, loan : v = lɛllr\nlens : n = ˈlɪblɛɪ̯ˑl kvɪs\nlesbian : n = shɛn\nless : adv = ˈblutu\nlesson : n = ʤɔ\nlet, allow, approve : v = dɛ\nlethal, fatal : adj = ˈfoʊ̯nɛ\nletter (of an alphabet) : n = bukr\nletter (written document) : n = vəˈlɛn\nlettuce : n = ˈθimud\nlevel : n = hji\nlever, pedal, knob : n = vənr\nleverage : n = ˈɪdrɔr\nliberate : v = fril\nliberty : n = voʊ̯ˈju\nlicense : n = drɛk\nlick : v = əˈtɪ\nlid : n = ˈhjɛsoʊ̯d\nlie : v = choʊ̯\nlift, raise, boost, elevate, escalate : v = θrɑ\nlight (weight), fragile : adj = rɪll\nlight : n = skɑt\nlight, illuminate : v = hɛrtr\nlightning : n = əkr\nlike : prep = ˈamɑ\nlike, love : v = loʊ̯θ\nlimb : n = kɪk\nlime : n = cɪn\nlimit : n = ˈvɛfrɪndlvɛɪ̯ˑ\nlimp : v = hvis\nline, column : n = ˈunoʊ̯\nlinen : n = tɛrm\nlion : n = ˈshɪndlvutə˞\nlip : n = cɔ\nliquor : n = bandr\nlist, catalog, column : n = sɛs\nlisten, hear : v = vɛll\nliterature : n = tɑdr\nlitigation : n = vuθr\nlive : adj = ɛɪ̯ˑngr\nlive, survive : v = əl\nliver : n = gri\nlizard : n = poʊ̯llr\nload : n = naθ\nloaf : n = vəl\nlobby : n = ˈgɛndɪvɪ\nlobster : n = vʌld\nlocal : adj = uˈru\nlocation, position : n = rʌnr\nlock : n = al\nlocker : n = ɪˈθɪ\nlog : n = skis\nlogo : n = svar\nlong (want for) : v = rət\nlook : n = ʤɪ\nlook out, watch out : v = rəkˈvi\nloop, curve, curl : n = rɔn\nloose : adj = gyk\nloser : n = ˈskasyn\nloss : n = dvək\nlot : n = grurd\nlottery : n = ˈkɛmʌ\nloud, noisy : adj = nyndr\nlounge, couch, sofa : n = rɛrr\nlouse : n = hwɛ\nlove, admire, worship : v = ˈbuhjɪ\nloyal : adj = fryn\nluck : n = nɔl\nlump, bump, knot : n = fə˞\nlunch : n = udhr\nlung : n = səˈθɛs\nlust : n = tuhr\nluxury : n = lə˞θr\nmachine : n = wə˞r\nmafia, mob : n = nɑrr\nmagazine : n = voʊ̯θr\nmagic : n = bjis\nmagnet : n = rɪl\nmaid : n = gʌ\nmail : n = ˈnəɪkə\nmain : adj = neɪ̯\nmajor : adj = brɪfr\nmale : n = drɔ\nmammal : n = vɛs\nman, husband : n = loʊ̯ˈkoʊ̯\nmanage : v = ˈkɔsdɪnd\nmandatory : adj = ˈhurnɪr\nmanipulate : v = llɪrˈneɪ̯\nmanner : n = bun\nmanual : adj = ˈθɛdhulgə\nmanual : n = blɪrˈgə\nmanufacture : v = cɛ\nmany : det = nərdh\nmap, menu : n = fə˞n\nmaple : n = ˈsnɪmɛɪ̯ˑ\nmarch : v = hɛθ\nmargin : n = shʌ\nmarine : adj = ˈlɛtu\nmark : v = dɑ\nmarket, mall : n = skoʊ̯l\nmarry : v = ˈfə˞tɛndlvʌ\nmask, veil : n = hjurr\nmass : n = ma\nmassacre : n = wɪrn\nmast : n = chuˈrɛ\nmaster, lord : n = nʌn\nmasturbate : v = ˈumnə˞\nmat : n = skoʊ̯llr\nmatch (for fire) : n = ˈhwɪlruhoʊ̯htr\nmatch (game), contest : n = ˈsvɛhɛr\nmaterial : n = ˈlɛstɪ\nmathematics : n = frɛθ\nmatrix : n = stɛtr\nmatter : v = lut\nmattress, cushion : n = sjʌlmr\nmature, sophisticated, ripe : adj = θril\nmay : v = wɪldr\nmaybe, perhaps : adv = θəndr\nmaze : n = bɛˈdrɛ\nmeadow : n = dusˈkɛ\nmeal : n = vɪrd\nmean : v = dɪl\nmean, vicious, wild : adj = cut\nmeanwhile : adv = nahr\nmeasure, compare : v = ˈlɪrdæ\nmeat, flesh : n = ˈvɛldɪs\nmedia : n = fədh\nmedicine : n = drɛs\nmeditate : v = brɑm\nmedium : adj = wuldr\nmedium : n = ɪθr\nmeeting : n = drɪst\nmelody, tune, chorus : n = pɪldr\nmelt, fade : v = θyˈrɑm\nmember : n = wiˈmɪ\nmembrane : n = gɔr\nmemento, souvenir : n = snət\nmemorial : n = iθr\nmention : v = gɪˈrɑ\nmerge : v = vəmr\nmerit : n = hlɛkr\nmess, clutter : n = dur\nmessage, note : n = wɔr\nmetal : n = hudr\nmetro : n = ˈuknɪnn\nmiddle : adj = gask\nmiddle class : n = həkr\nmight : v = ˈfruru\nmigrate : v = sə˞\nmilitia : n = rɪd\nmilk : n = hvum\nmill : n = gyt\nmillennium : n = sɛgz\nmillion : num = hɑ\nmind, brain : n = nə˞\nminiature : adj = vukr\nminor, mere, petty : adj = lɛrˈdɪr\nmint : n = əllr\nminute : n = styrkr\nmiracle : n = θɛlmr\nmirror : n = shydh\nmisery : n = ˈrɪθɛ\nmiss (long for) : v = ɪppr\nmiss (not hit), miss (not take advantage of) : v = fɑr\nmission : n = la\nmistake, error : n = sir\nmistress : n = lɛlmr\nmix : v = blull\nmoan, sigh : v = loʊ̯r\nmobile, portable : adj = rɛɪ̯ˑ\nmock, imitate : v = tɪrn\nmodel : n = ən\nmold : v = lrɛ\nmolecule : n = lɪsk\nmoment : n = ˈnoʊ̯lvʌ\nmoney : n = fluˈkə\nmonopoly : n = kɪbr\nmonster, beast : n = θɛldr\nmonth : n = lɪm\nmood, attitude : n = nɛngr\nmoon : n = fukr\nmore : det = tu\nmorning, dawn : n = nɛss\nmosquito : n = dri\nmoss : n = ˈɛnu\nmost : adv = θrəˈra\nmother : n = ɛr\nmound : n = ˈɪwɔki\nmountain : n = flɔll\nmourn : v = ɪrn\nmouse, rat : n = ˈə˞dul\nmouth, language : n = frɔtk\nmove, come : v = du\nmuch : det = ˈvɪθræ\nmud, cement : n = θroʊ̯\nmuffle : v = θumr\nmug : n = snɛθr\nmule : n = nɛl\nmultiply, reproduce, expand : v = vyn\nmumble : v = ˈlulɪn\nmural : n = blɛɪ̯l\nmurder : v = sjɪd\nmuscle : n = ˈfrəpu\nmusic : n = lɛn\nmust, have to : v = fɪ\nmustache : n = ɑdhr\nmustard : n = shu\nnag, bother : v = hɛgr\nnail : n = ˈdɪgnoʊ̯t\nnaive, innocent : adj = fərθ\nname : n = grʌn\nname, dub : v = bust\nnapkin : n = vɛrmr\nnarrow : adj = vɪkr\nnation : n = rɪngr\nnative : adj = turr\nnature, essence : n = lɪlgr\nnavy : n = veɪ̯nr\nnear : prep = səl\nneat, fine : adj = fə˞rθ\nnecessary : adj = hljɛ\nneck : n = vɪθr\nnecklace : n = səndr\nneed, require : v = nɪngr\nneighbor : n = həˈθis\nneither : adv = ˈsɪmy\nnephew : n = sjaɪ̯t\nnerve : n = nɪndr\nnervous, anxious : adj = rɪmr\nnest : n = mɛˈnɑn\nnet : n = rɛl\nnever : adv = sə\nnevertheless, regardless, even though : adv = ə˞t\nnew : adj = sind\nnews : n = ɔrst\nnext : adj = ˈkɛkvu\nnice : adj = kaɪ̯r\nniche : n = ˈsəwə\nnickname : n = gə˞n\nniece : n = fɛg\nnight, evening : n = vur\nnine : num = tud\nno : det = blə\nno : interj = drjɛn\nnoble : adj = birr\nnobody : pron = hli\nnod : v = dərt\nnoise : n = uŋ\nnominate : v = hə˞r\nnone : pron = rɪstr\nnoon, midday : n = muldr\nnorth : n = dru\nnose : n = vɛfr\nnot : adv = və\nnotable : adj = fɛld\nnothing : pron = tɪndr\nnotice : v = gɪllr\nnotorious : adj = dət\nnovice, rookie : n = drji\nnow : adv = dwɪ\nnowadays : adv = tɛll\nnowhere : adv = dɛθ\nnumber : n = mɛ\nnurse : n = mɛˈrɛ\nnursery : n = ˈlɪdy\nnurture : v = fɛrtr\nnut : n = ɪrθ\nnutrition : n = liθr\noasis : n = ˈstəjɪlə\noath : n = bjən\nobey : v = flɛɪ̯ˑ\nobjective : adj = nɛrgr\noblige : v = urm\nobsess : v = bjæˈmɛ\nof : prep = hɔ\noff : adv = fɛ\noffense : n = θæ\noffer : n = mə\noffice : n = vɪrˈnɛkɪ\nofficer, official, deputy : n = vədˈhəl\noften : adv = skɔ\noil, grease : n = dynr\nokay : interj = kilpr\nold : adj = θən\nolive : n = dɛɪ̯ˑ\non : prep = gaɪ̯\nonce : adv = ˈoʊ̯lɛ\none : num = kvoʊ̯\none : pron = θɑnr\nonly : adj = mɪdh\nonly, merely : adv = duˈnɛr\nonto : prep = kvi\nopen : v = gə\noperate, treat : v = fʌ\nopinion : n = ra\nopposite : adj = ˈtəndɛ\noppress : v = ˈvɪhɪnr\noption : n = θir\nor, either : conj = ɪ\norchestra : n = dɪˈhjɪm\norgan : n = vrɪs\norganism : n = fɪx\norgasm : n = blɛgr\norigin, root : n = friˈnɛ\nornament, accessory : n = ˈhɑrɛrm\norphan : n = kvɪll\nother : adj = svach\notherwise : adv = ˈoʊ̯tɔ\nout : adv = tɛn\nout, outside : prep = sæ\noutbreak : n = kakr\noutline : n = ˈsoʊ̯sɑrr\noval : n = frɪmr\noven : n = ˈkɪvɪllɛx\nover : prep = svə\noverdose : n = ʤut\nowe : v = hɪld\nowl : n = ˈmɪtɛdɛdhr\nown, possess : v = tru\noxygen : n = lɪlls\noyster : n = ˈhrɛrɛ\npace : v = ˈudhur\npage : n = pandr\npain : n = dryθ\npaint : n = hvɛ\npair, duo : n = eɪ̯s\npalm (of hand) : n = las\npan, saucepan, skillet : n = wubr\npandemic : n = mɑm\npanic : v = fɪld\npanorama, orbit : n = əkˈvɪ\npaper : n = ɑrn\nparadise : n = vəngr\nparadox : n = nɛrm\nparagraph, clause, verse : n = dɛx\nparallel : adj = ˈəndəhu\nparalyze : v = chɛl\nparcel, package, bundle, packet : n = shar\nparent : n = θɔk\nparliament : n = bɛrm\nparlor, salon : n = ˈɪtɪdh\nparsley : n = ˈdʌkurt\npart, portion : n = ɪsk\npartner : n = sɪtr\nparty : n = kvɛnˈdu\npassenger : n = hjə\npassion : n = heɪ̯r\npast : adj = wy\npast : n = hən\npasta : n = ˈlɪrdθu\npastry : n = mə˞l\npatent : n = krɛl\npath, track, direction : n = shoʊ̯ˈtun\npatient, victim : n = fɑn\npatriot : n = hjɛld\npatrol : v = gəlfr\npause : v = grɛl\npave : v = noʊ̯fr\npaw, hoof : n = flurr\npay : v = toʊ̯\npea : n = ɪtˈna\npeace : n = hjɪdr\npeach : n = mi\npeak : n = hrɪrt\npear : n = lrur\npeasant : n = stɑndr\npeek : v = dvæ\npeel : v = shum\npeer : v = brɛ\npen : n = wən\npencil : n = vild\npenetrate : v = vɪf\npeninsula : n = lɑdhr\npepper : n = ˈɪsθɪlbi\nper, for each : prep = dvɛ\npercent : n = stɛlfr\nperch : v = flum\nperfect, pure, clean, wholesome, moral : adj = mur\nperform : v = bjɪtr\nperfume : n = ædh\nperiod : n = skuθr\npermanent : adj = grɪmr\npermit, enable, approve, endorse : v = ɛrd\npersist, linger : v = ˈvɪhju\nperson, human : n = ˈkəθɪn\npersuade, convince : v = ɛˈug\npest : n = θɪθr\npet : n = vɑsˈkɛ\npetal : n = ɑs\npetition : n = rulpr\nphone : n = fɪsˈta\nphrase : n = ˈllɪdirr\nphysical, tangible : adj = ˈfurɑ\npiano : n = hvækr\npick : n = floʊ̯\npick : v = snə˞\npicnic : n = goʊ̯m\npicture : n = soʊ̯ˈθulmr\npiece, item, segment, bit : n = hvɛx\npierce, prick : v = lar\npig, pork : n = ˈdɛrəst\npile, heap : n = vɔm\npillar : n = bjag\npillow : n = oʊ̯mr\npin : n = ʤə\npinch : v = ˈdɛndɪθu\npink : adj = ɛbr\npipe : n = vaɪ̯n\npirate : n = fuch\npistol : n = shɪss\npity : v = ˈaʌ\nplace, point, site : n = ɛndr\nplan, strategy, tactic : n = sɪ\nplane : n = gɛlhr\nplanet : n = koʊ̯\nplant, place : v = hvɔm\nplantation : n = ˈθrɪgnə˞lə˞rt\nplaque : n = ˈhulfɛt\nplate, disk : n = fri\nplateau : n = svɛn\nplatform, balcony : n = dɛrm\nplatter : n = rɛnd\nplay (have fun) : v = inn\nplay (stage play) : n = ˈrærnæ\nplease, satisfy, indulge : v = grɪgr\npledge : v = bæl\nplenty : pron = boʊ̯l\nplug : n = kvach\nplus : prep = ˈstunə˞\npocket : n = vug\npoem, lyrics : n = gruhr\npoint, spot : n = fuˈras\npoison : n = gəlˈdɛθus\npolice : n = ˈkɪrɪ\npolicy : n = ræm\npolite : adj = ˈyvun\npolitics, diplomacy : n = tɔm\npollute : v = ɛnr\npool : n = ˈsɛlgɪ\npoor, weak : adj = sən\nporch, veranda, terrace : n = æhtr\npornography : n = θɪf\nport : n = rɛtr\npose : v = ˈdɛvuθ\npossess : v = ɛnd\npossible, plausible : adj = vənˈgilɛl\npost : n = dɛt\npost : v = gɛrdh\nposture : n = wuˈfrɑ\npot : n = ˈsnɪknə\npotato : n = flɪr\npottery : n = hoʊ̯ll\npour, flow : v = lɛr\npower, force : n = ˈrɛlbu\npractical, pragmatic, efficient : adj = doʊ̯x\npractice : v = snɪs\npraise, endorse : v = ta\npray : v = ˈsurnɪ\nprecede : v = hɪppr\nprecious, rare : adj = mɔp\npredecessor : n = ˈnavull\npredict, anticipate : v = θuθr\nprefer : v = hlɛl\npregnant : adj = ɛɪ̯\nprejudice : n = gɛɪ̯ˑ\npremier : adj = ə˞rn\npremiere : n = brɛx\npremise : n = knoʊ̯cˈheɪ̯sdɛ\nprepare, train : v = bɪnd\nprescribe : v = gɛt\npresent (time) : n = blɛr\npresent, gift : n = blɛdh\npress, squeeze : v = dɪˈwi\nprestige : n = drɛɪ̯ˑ\npretty : adj = tɛht\nprey : n = vɔss\nprice, fee, fare : n = ˈɛrə\npriest : n = hruss\nprimitive : adj = drildr\nprince : n = fəbr\nprincess : n = sɪr\nprint : v = də˞ˈdy\npriority : n = fɪgr\nprison, jail, dungeon : n = sjun\nprivate : adj = ˈfinoʊ̯\nprobable : adj = θuˈrɔrɔk\nprobe : v = lʌˈrɪm\nprocess, procedure : n = tɑs\nproduct, merchandise : n = θvɪ\nprofessor : n = gɪs\nprofit : n = sər\nprogram : n = ɑn\nprogress, breakthrough : n = kɪll\nproject : n = ˈmɛmu\npromise, assure, convince : v = dɛˈθit\npronounce : v = ˈfɛnu\nprop : n = ˈnuhul\npropaganda : n = broʊ̯mr\nprophet : n = grɪθr\nprose : n = ˈmoʊ̯ɛppr\nprosecute : v = ˈəfæ\nprostitute, whore : n = hɪr\nprotagonist : n = ɛkr\nprotest : v = laˈnə\nproud : adj = frun\nprove : v = trɪl\nproverb : n = deɪ̯ˈlə\nprovide, cater : v = flɛ\nprovince, territory, region : n = kvɛɪ̯ˑng\nprowl, lurk : v = ˈgɛnə\npub : n = kɛθ\npublic : n = vɪmr\npublish : v = ˈbjɛθɪθɪtr\npuddle : n = kvɛr\npulse : n = θʊng\npump : n = ˈskusvɪ\npumpkin : n = pam\npunch, beat (strike) : v = θund\npunish : v = ˈsvæstɪ\npuppet : n = ækr\npush, grow : v = vɛθ\nput : v = kɔ\npuzzle : n = ˈfublu\npyramid, pile : n = ə˞m\nqualify : v = rʼrə\nquality : n = hullr\nquarter : n = blɔθ\nqueen : n = il\nquestion, query : n = kɛ\nquiet, shy, subtle, reluctant : adj = dɔˈta\nquota : n = vaɪ̯ngr\nquote : v = ull\nrabbit : n = θəldr\nrace (competition), marathon : n = vut\nrace, ethnicity : n = ˈsərdɛhɪrr\nrag : n = farr\nraid : n = ɛll\nrail : n = ˈərru\nrain : n = ɛht\nrake, fork : n = ˈlɑtərd\nrandom : adj = trɔl\nrange, spectrum, extent : n = ˈsɪtɛr\nrank (military) : n = ˈvudɛfr\nrank (position) : n = nudr\nrape, assault : v = krɪr\nrare : adj = ˈvɪgə\nrat : n = lɛˈlɛppr\nrate : v = wɪrr\nraw : adj = ˈdərɛ\nray, radius : n = vax\nread : v = dwə˞\nready : adj = bla\nreal : adj = bləˈgɛst\nrear : n = ˈshuiθu\nreason, logic, idea, theory, opinion, rationale : n = ˈgroʊ̯frəm\nrebel, guerrilla : n = fəd\nreceipt : n = ˈdɛlræ\nreceive, collect, gain, get, acquire : v = tri\nrecent : adj = θurd\nreception (of office or hotel) : n = lɛtk\nrecession : n = ˈgundlə\nrecipe : n = tɪθr\nrecite : v = wurm\nrecognize, diagnose : v = ʌ\nrecommend, advise : v = vəsk\nreconcile : v = ˈmɪhjalvɪt\nrecord : v = ar\nrecycle : v = ˈvɪrɛθɛɪ̯ˑ\nred, purple : adj = hɛˈdu\nreduce : v = nɛn\nreef : n = ˈlɛgɛt\nreferendum : n = ˈvuθɪ\nreflect : v = sɛkr\nreform : v = blɪr\nrefuse, veto : v = uˈgoʊ̯lɪndr\nregard, deem : v = flənn\nregister, book : v = lɪtr\nregret, lament : v = in\nregulate : v = ˈtɔɪn\nrehearse : v = naptr\nreign, dominate : v = kɛngr\nreject, vomit : v = nuppr\nrelate, correlate, refer : v = ˈfə˞ɪr\nrelax : v = nim\nrelease, let go, let out : v = ˈvɛru\nrelevant : adj = blil\nrelieve : v = groʊ̯ŋr\nremains, remnant : n = fur\nremark : v = dɪrst\nremind : v = ˈhrasy\nremove, take out : v = dɪldr\nrepeat, replicate : v = ɪt\nreplace, substitute : v = ˈdwufrəst\nreplicate : v = lɪhtr\nreport, notify, inform : v = svɪ\nreptile : n = hjɪ\nrequire, lack : v = skurr\nresearch : n = hvɪlfr\nresemble : v = rəlgr\nresent : v = hvər\nresident, tenant, citizen : n = voʊ̯ˈkɛ\nresist, withstand : v = ˈnygɪnɛɪ̯ˑ\nresort : n = fɪˈpɪ\nrespect, worship : v = ˈgɪlvu\nresponse : n = θək\nrest : v = nyr\nrestaurant, diner : n = ˈpɛrtskʌl\nrestoration : n = ˈləsə\nrestrain, inhibit, deter : v = ˈfɛlɛɪ̯ˑm\nresult, outcome : n = rɛθ\nretire : v = ællr\nretrieve, bring back, fetch, recover : v = vɛrkr\nreturn, go back : v = fəgr\nreveal, expose, uncover : v = gə˞\nrevenge : n = ˈvɛlvu\nreversal : n = bjɪmr\nreverse : adj = stoʊ̯m\nreview : v = lɪr\nrevise, amend : v = lɛnd\nrevolution : n = tɛd\nreward, award, prize, medal, profit : n = hurd\nrhythm : n = stjɪr\nribbon : n = vɔdh\nrice, grain : n = shɪr\nrich : adj = greɪ̯l\nride : v = vɑm\nridicule, humiliate : v = nuld\nright (direction) : adj = ˈkɛndɛ\nright, correct, appropriate, valid : adj = mɪ\nright, entitlement, privilege, patent : n = hɛ\nrigorous : adj = ʤɪt\nring : n = lə˞n\nring : v = us\nriot : n = bjə\nrise, lift : v = ˈvɛrɑ\nrisk, hazard, threat : n = rɑrn\nritual : n = tinˈvɛl\nriver, stream, creek : n = kɪrkr\nroad, street, artery : n = stɪ\nroam, drift, migrate, sail, cruise, navigate : v = wuˈlɑ\nroar : v = knɪrt\nroast : v = ga\nrobe, gown : n = nɛθ\nrock (move back and forth) : v = nut\nrock, stone, jewel, prism : n = sku\nrod, shaft, bar : n = flɪldr\nrodent, mouse : n = skəm\nroll, revolve, rotate : v = ˈhubrɛ\nromance : n = hljɛppr\nroof, ceiling, canopy, maximum : n = ˈdoʊ̯lɛ\nroom (of house) : n = furm\nroom (space), capacity : n = sɛ\nrope, cord : n = pindr\nrose : n = hɑn\nroster : n = θuˈsɪl\nrotate, revolve : v = soʊ̯r\nrough : adj = ɪddr\nround, blunt : adj = svuˈnæ\nroute : n = fɪrˈnə˞\nrow : n = dɛˈlɛl\nrow : v = grɔ\nrubber : n = ˈləvurd\nrubble, debris : n = ˈθɛgɛs\nrude, nasty : adj = ɑˈnɪf\nrug : n = ˈnɛra\nrugged : adj = dɪllr\nrule : n = ˈətə˞\nrule : v = ˈvɪhɛldrvɛch\nrumor : n = jɪn\nrun : v = kvɪr\nrunway : n = ˈθvævɛr\nrust : n = wuptr\nsad : adj = hɑt\nsafe : adj = vynn\nsaint : n = ŋɛrst\nsalad : n = ˈhɛrcun\nsalt : n = kvɪlfr\nsame : det = slvuŋ\nsample : n = uld\nsanctuary, haven : n = kvɔ\nsand, gravel : n = hur\nsap : n = səlpr\nsauce : n = sədh\nsausage : n = sur\nsave, rescue, recover : v = chɪ\nsaw : n = ˈvɛljɛ\nsay : v = beɪ̯\nscale (instrument for weighing) : n = ˈmulbɛwɛ\nscale (skin of reptiles) : n = ˈhəi\nscan : v = ˈbɛrvə\nscandal : n = brə\nscar : n = gɪkr\nscarce : adj = ˈtɔfɪx\nscare, frighten, startle : v = dvindr\nscared, afraid, nervous, anxious : adj = flɛn\nscarf : n = kɪs\nscatter : v = dulfr\nscene : n = gəˈnɪ\nschedule : n = hwɪm\nschool, academy : n = gɛr\nscience : n = fɪt\nscissors : n = sɔ\nscoop : v = kɪmr\nscope, extent : n = vɛndr\nscore : n = vrə˞\nscout : n = shət\nscramble : v = ˈutɛn\nscrap : n = hvæs\nscratch, scrape, rub : v = ˈtrɪlɔ\nscream : v = wɛnˈtæ\nscreen : n = θrəˈtlɪ\nscrew : n = ˈfurɛ\nscrew, fuck : v = hrər\nscrub, polish : v = mɛrθ\nsea, ocean : n = hal\nsearch, look up, investigate, hunt, inquire, probe : v = gɪr\nseason : n = nən\nseat, chair, saddle : n = nirr\nseaweed : n = ˈɛfrɛl\nsecond : n = stɛ\nsecond : num = lɔ\nsecret, mystery : n = kɪr\nsection, segment, compartment, piece : n = dɛm\nsecurity : n = reɪ̯r\nseduce, tempt : v = θusˈvɪl\nsee, discover, perceive, recognize, envision, date, go out, examine, escort : v = gru\nseed, grain, cereal : n = fiu̯\nseem : v = kvoʊ̯\nselfish : adj = ˈfæpɪl\nsell : v = broʊ̯\nsemester : n = frɑbr\nsend : v = flu\nsensation : n = ˈdruoʊ̯\nsense : n = tə˞r\nsensible : adj = əld\nsentence : n = ˈlrɛɪ̯ˑrnɛs\nsentence, punish : v = fjəngr\nsequence, order : n = ˈmɛsti\nserial : adj = knɪppr\nseries : n = vallr\nserious, sincere, earnest : adj = ˈfrɛθut\nservant, waiter : n = kin\nserve, treat : v = ˈlɪlɪ\nset : v = wə\nset, couple : n = skɛr\nsettle : v = huŋr\nseven : num = fjɑn\nseveral : det = hə\nsevere, strict, fierce : adj = frɪdh\nsew : v = shis\nsewage : n = roʊ̯lfr\nsex : n = rə˞\nshack, shed : n = hɛllr\nshade, shadow, hue : n = hɪss\nshadow : n = rɪm\nshake, rattle, vibrate : v = lɛgr\nshame, stigma : n = ˈblɪlbɪ\nshape, pattern, motif, constellation : n = burn\nshare, split : v = frɑ\nshark : n = kʌrn\nsharp : adj = ˈgroʊ̯blɛθ\nshave : v = ˈbrɛrɛnr\nsheep : n = mirst\nshelf, rack : n = tɛˈθɛllr\nshell : n = ɛs\nshelter, shield : n = ul\nshift : v = nɪld\nshine, glare, radiate : v = wɛrr\nshirt, blouse : n = imr\nshit : n = oʊ̯k\nshiver : v = θɪl\nshock, stun, paralyze : v = frɪs\nshoe, boot : n = ˈoʊ̯wa\nshooting star : n = hvus\nshore, coast, rib : n = ɪnr\nshould : v = ɪ\nshoulder : n = skə\nshout, yell : v = svoʊ̯ˈdə\nshove : v = bɛˈgɛ\nshovel : n = blart\nshow off : v = ˈrɪlɛgə\nshow, demonstrate : v = ɛl\nshow, spectacle : n = hvɪ\nshower : n = vɪdθr\nshrimp : n = skɛˈsə\nshrink : v = æng\nshrub, bush : n = hurˈnɛ\nshrug : v = ˈeɪ̯θurn\nshudder : v = fɛs\nshuffle : v = ˈsɪsdu\nsibling : n = θrul\nsick, ill, unwell : adj = lun\nside : n = uk\nsiege : n = umr\nsign, signal, symptom, alarm, siren : n = soʊ̯\nsilence : n = vɪn\nsilk : n = vaɪ̯\nsilly : adj = bjɪg\nsilver : n = sɪf\nsimilar : adj = ˈɪndland\nsimmer : v = hunr\nsimple, poor : adj = θyrθ\nsin : n = hjərˈnɛ\nsince : conj = ˈgidrɪ\nsingle : adj = θrulhr\nsink, descend : v = vurθ\nsister : n = goʊ̯\nsit : v = vɛhr\nsituate : v = nuŋ\nsituation : n = ˈsləθi\nsix : num = dɪn\nsize, capacity : n = ri\nskate : v = fungr\nskeleton, hull : n = har\nskeptic : n = ɛrgr\nsketch : n = ˈmɛdhoʊ̯s\nskid : v = ʤɛɪ̯ˑs\nskill, talent, craft : n = bɪlpr\nskin, fur : n = skurd\nskinny : adj = tɪm\nskirt : n = ˈsuvuθ\nskull : n = giˈru\nsky, space (outer), heaven : n = wur\nslab : n = ˈgɑrɪl\nslap : v = doʊ̯s\nslash : v = nʊ\nslave : n = dvu\nsleep, nap : v = hɛx\nslice, portion : n = ɪˈu\nslim : adj = groʊ̯lmr\nsling : n = drjɑ\nslogan : n = vuld\nslope, slant, ramp : n = dul\nslow, late : adj = θrʌ\nslump : v = dɪlpr\nsmall, little, short, low, brief : adj = nɪd\nsmash, shatter, destroy, devastate : v = ˈtɛngəll\nsmell (emit odour), stink : v = dwɪr\nsmell (sense with nose) : v = hɛl\nsmile, smirk : v = ɛdhr\nsmoke, steam : n = ˈmutlɛɪ̯ˑ\nsmooth, sleek : adj = drɪ\nsmuggle : v = kɛndr\nsnack : n = θra\nsnake : n = hwɪn\nsnap : v = grɛrr\nsnatch, yank : v = skɛt\nsneak, creep : v = hva\nsneeze : v = kum\nsniff : v = ˈkɛloʊ̯f\nsnow : n = eɪ̯nd\nso, very, really : adv = hu\nsoak, saturate, irrigate, marinate : v = bund\nsoap : n = snun\nsober : adj = binr\nsocial : adj = vɔr\nsociety : n = flɑr\nsock : n = svɪt\nsoft, quiet : adj = dɪθr\nsoil : n = ˈdrygi\nsole, lone : adj = bəx\nsolid : adj = hljɛm\nsolve, figure out, deduce : v = sɪrθ\nsomehow : adv = gɛm\nsomeone, somebody : pron = a\nsomething : pron = vɪr\nsometimes : adv = bjɛt\nsomewhat, fairly, pretty, quite, rather : adv = nɪmr\nsomewhere : adv = voʊ̯l\nsong, music : n = vɪˈtɛ\nsoon, now : adv = wɛn\nsophisticated, intricate : adj = oʊ̯ˈpɛ\nsore : adj = fɪk\nsorrow : n = ˈθoʊ̯vɛm\nsorry : adj = ˈnɛmɪrn\nsort, arrange : v = ˈnoʊ̯ɛ\nsoul, essence : n = frɛl\nsound, voice : n = ˈvirdɛng\nsoup : n = wɪld\nsour, bitter : adj = drə\nsource, origin, well, fountain, resource : n = hrɛ\nsouth : n = ˈɛrgɪ\nspa : n = θɛt\nspace, room (space) : n = blɪ\nspank, smack, snap : v = həstr\nspare : adj = fjɪkr\nspasm : n = ə˞gr\nspear, lance, pike : n = ˈkɪlɪ\nspecial : adj = fətr\nspecies, kind, type, breed : n = buˈdeɪ̯kr\nspecific, definite, particular, distinct, apparent, unique : adj = hɪhtr\nspecimen : n = lɛtr\nspeculate : v = eɪ̯ndr\nspeed : n = ˈlurɪ\nspell (of magic) : n = ˈhroʊ̯dɛpnɛ\nspell : v = θrɛ\nspend : v = ly\nspice : n = drɛl\nspider : n = grɪrv\nspike : n = hjɪl\nspill : v = ˈlɪrdɑf\nspin : v = həgr\nspinach : n = loʊ̯br\nspirit, soul : n = sloʊ̯\nspit : v = hræ\nsplit, separate, isolate, segregate : v = ˈveɪ̯kɪllr\nspoil, indulge : v = blɪng\nsponsor : v = ˈhəsis\nspontaneous : adj = huld\nspoon : n = fuˈsɪθr\nspouse : n = sləss\nspray : v = hvɪn\nspread : v = səngr\nspring (coil) : n = ɑɪ̯s\nspring (season) : n = ˈrulu\nspur : n = cæ\nspy : n = nɛɪ̯gh\nsquare : n = lin\nsquash : v = rɛss\nsquat, crouch : v = ˈnoʊ̯nə\nsqueeze, clutch : v = kəss\nsquint : v = svəhr\nsquirrel : n = tɛl\nstab : v = ˈblɛndlvoʊ̯\nstable, steady, calm, consistent : adj = hreɪ̯s\nstack : v = kɪd\nstaff : n = tə\nstain, contaminate : v = uˈnoʊ̯l\nstake : n = hundr\nstalemate : n = dvɪtk\nstall, kiosk : n = ˈgælɛ\nstamp : v = hwu\nstand : n = gɛtr\nstand : v = mɛɪ̯\nstandard, average : n = tɛs\nstaple : n = rɑt\nstar, celebrity : n = ɪsˈnu\nstart, begin : v = ˈkanɛ\nstarve : v = kɑ\nstate, condition : n = frɛˈrɛ\nstate, declare : v = fum\nstatic, passive : adj = rɪlˈdat\nstation : n = ˈbrɛtɛl\nstatistic : n = ˈθɪrɛldr\nstay : n = wuθ\nsteal, rob : v = ˈfilɔr\nsteam : n = θoʊ̯ˈlun\nsteel, iron : n = frix\nstem : n = krəˈɪrm\nstep (one level of stairs) : n = dirst\nstep, footstep : n = və\nstereotype : n = deɪ̯\nstew : n = ˈfɑndu\nstick : n = ha\nstick : v = lɪrd\nstill : adv = ˈtyrbu\nstir : v = kɛllr\nstitch : n = drægh\nstock, arsenal : n = ˈəθɛsi\nstoke : v = dvul\nstomach, gut : n = kung\nstool : n = hru\nstop, brake : v = tɛ\nstore, shop, arsenal : n = lə˞\nstorm, turmoil : n = dwukr\nstory, fable, plot, fiction, narrative : n = fəs\nstraight, steep, honest : adj = dɛhr\nstrap : n = sɪl\nstrawberry : n = doʊ̯m\nstrength : n = ɪˈguns\nstress : v = dwɛθr\nstretch, pull, yank, tug, tow : v = vɔˈθɛr\nstride : n = tris\nstring, thread, strand : n = ˈflɛstɪ\nstrip, reap : v = θɪrr\nstripe, strip : n = tutr\nstroke : v = svɪŋr\nstrong, tough, sturdy, robust : adj = gu\nstructure, system : n = shɪθ\nstubborn : adj = muhr\nstudent : n = bɪθr\nstudy, learn : v = kvɑ\nstuff, property : n = hvɔ\nstump : n = lət\nstunning : adj = grur\nstupid, dumb, dull, silly, dim, blunt : adj = hvɪˈtiseɪ̯htr\nstyle, fashion, tone : n = ˈblɑlɪ\nsubject : n = bal\nsubjective : adj = broʊ̯gr\nsuccess, benefit : n = θi\nsuccession : n = ˈhamu\nsuch : det = nuˈrɛ\nsuck : v = lɛs\nsudden, abrupt, swift : adj = shə˞\nsufficient : adj = blɛɪ̯ˑf\nsugar : n = gɛllr\nsuggest, hint, indicate, imply, express : v = hvud\nsuit : n = blɛll\nsuitcase, baggage : n = ˈɛəstr\nsummary : n = vyngr\nsummer : n = lɛɪ̯ˑ\nsun : n = vɛ\nsupervisor : n = ulgr\nsupplement : v = chɑ\nsupply : v = hjɔr\nsupport, bolster, brace, justify : v = ˈnɛnɛ\nsuppress, restrain, squash : v = ˈhɪnɪd\nsure : adj = su\nsurf : n = fɪlpr\nsurface : n = vəx\nsurge : n = dwyhr\nsurgery : n = ˈɛɪ̯ˑlɑtr\nsurpass, excel : v = ɔldr\nsurplus : n = tɛm\nsurprise, astonish, startle : v = tɪrr\nsurrender, give up : v = ˈnunvɪs\nsurround : v = ɪrr\nsurvey : n = kuld\nsuspect, assume, presume : v = ˈfəθæ\nsustain, survive : v = skɑˈtɛlu\nswallow, absorb, retain : v = ˈbɑhy\nswamp : n = θɛtr\nsway, convince : v = ˈvɪθeɪ̯\nsweat : v = nym\nsweep : v = rɪld\nsweet : adj = doʊ̯ll\nsweetheart : n = funn\nswim : v = gəm\nswing, hang, wave (salutation) : v = dɪrdh\nswipe : v = sliθr\nswirl : v = diu̯n\nswitch : n = ˈumɪnn\nsword : n = nin\nsystem : n = dɪ\ntab : n = fan\ntable, bench, desk : n = kɪtk\ntackle : v = ɔn\ntag : n = nəs\ntail, ass : n = dran\ntailor : n = ʤɛldr\ntake apart, dismantle, destroy : v = gɛˈmɪ\ntake, arrest, collect, hold, carry, accept, adopt, reserve, gain, remove, deprive, take away, support, earn, abolish, erase, reap, gather, plow, reinforce : v = bə˞\ntalk, speak : v = nɪsˈdɛ\ntangle, ruffle : v = hɪdhr\ntap, faucet : n = ˈunucʼ\ntape : n = θrɪgh\ntask, chore : n = ˈgɪgyl\ntaste : v = ˈkeɪ̯sdɪ\ntattoo : n = svɛgz\ntax, tariff : n = lill\ntaxi, cab : n = nɛr\ntea : n = ˈvɛnɪ\nteach, instruct, educate, explain : v = vɛl\nteam : n = voʊ̯ll\ntear, rip : v = ˈmirtɛn\ntease, mock : v = θul\ntechnical : adj = bɪn\ntechnology : n = ədr\nteenager, adolescent : n = kill\ntell, announce, disclose, explain, interpret : v = ɪtr\ntemper : n = dɑll\ntemperature : n = hrus\ntemple, shrine : n = ˈɛtə\ntemporary : adj = fru\nten : num = ˈblɛlɪrɛ\ntense : n = gɛl\ntent : n = dwə\nterm : n = eɪ̯ll\nterminate : v = ɛˈlɛɪ̯ˑsnu\nterror : n = fygz\ntest : v = vyl\ntext, document : n = ˈværnɪfrə\nthan : conj = fə\nthank : v = skɪrr\nthat : adv = ɑgh\nthat : conj = ɑs\nthat : det = slɪs\ntheater, stage : n = ərm\ntheme, motif, chorus : n = fɛrd\nthen : adv = ˈdɔtɪ\ntherapy, remedy : n = bləl\nthere : adv = rɪˈfrɛɪ̯ˑ\ntherefore, thus : adv = svoʊ̯ndr\nthese : det = dəgz\nthesis : n = fɪrθr\nthick, wide, broad, dense : adj = ˈvɑnɪ\nthigh : n = ˈskylu\nthin, slim : adj = kvɛ\nthing, matter, object : n = uch\nthink, deem, consider, believe, ponder, imagine, assume, devise : v = blɑddr\nthird : num = skɛ\nthis : det = lundr\nthorn : n = pi\nthorough : adj = ˈhɛrpɪf\nthose : det = ˈgurɛn\nthough : conj = fɔ\nthousand : num = flɪ\nthree : num = frɛ\nthrill : n = ɪgr\nthroat : n = gy\nthrone : n = skɛl\nthrough : prep = kvɪs\nthroughout : prep = vət\nthrow, toss, hurl, fling, shoot, propel, fire (detonate weapon) : v = rrə˞\nthrust : v = frɑgr\nthumb : n = hrəˈtlɪ\nthunder : n = wurˈnus\nticket, voucher : n = ˈrərɪf\ntide : n = lɛrm\ntie : n = hənr\ntie, attach : v = ˈshoʊ̯gu\ntiger : n = ˈrurtstistr\ntight, tense, stiff : adj = kɪllr\ntime : n = skɪ\ntin : n = chɔˈdɪθ\ntire : n = ˈsɑkɪfr\ntired : adj = fi\ntitle : n = dən\nto, towards : prep = toʊ̯\ntoast : n = nɛhr\ntoday, now : adv = ɛɪ̯ˑ\ntogether : adv = slɛ\ntolerate, sustain : v = blən\ntomorrow : adv = hi\ntone, pitch : n = blɪs\ntongue, language, dialect, voice : n = uˈnɑtɪ\ntoo, so, very, really, also, as well : adv = bə\ntool : n = sʌˈgrɪn\ntooth, beak, fang : n = grɪbr\ntop (clothing) : n = heɪ̯\ntop : n = ˈkɛgroʊ̯\ntopic : n = kvə˞fr\ntorch, lamp : n = vus\ntornado : n = chus\ntorso, trunk (of tree) : n = vɛllr\ntorture, oppress : v = hɛbr\ntotal, sum : n = shʌt\ntouch : v = lɑrθ\ntowel : n = uldr\ntower : n = hrɪlgr\ntown, population, village : n = bjɑ\ntoy : n = ʊˈroʊ̯\ntrade : v = gɪrn\ntraffic : n = sʊndr\ntragedy : n = ˈɛru\ntrail : n = ˈrəfrɛʤɪ\ntrailer : n = sull\ntrain : n = ɪndr\ntranscend : v = rɪnˈvɛ\ntranscript : n = vədh\ntranslate : v = ˈvɪθa\ntransplant : n = ɛmr\ntransport : n = duˈθoʊ̯\ntrap, bait : n = ˈsəvɔ\ntrauma, wound : n = frə˞\ntravel : v = fy\ntread, step on : v = təx\ntreason : n = kɪˈkusk\ntreasure : n = fɛn\ntree, wood, plant : n = vər\ntremble : v = sjir\ntrench : n = ˈənɪ\ntrend : n = dvɑ\ntrial : n = vɛɪ̯ˑˈnɛrɛm\ntriangle : n = oʊ̯l\ntribe, kin : n = svɔr\ntribute : n = ˈhɪkun\ntrick, deceive, betray, bluff : v = snɛ\ntrigger : n = vuk\ntrillion : num = θrɪx\ntrip : n = lur\ntrip : v = pɛm\ntriple : adj = hrɪt\ntrivia : n = bɛgh\ntrophy, award : n = shəndr\ntropical : adj = bləkr\ntrouble : n = shɑ\ntrousers, pants : n = dɑdr\ntrue, honest : adj = ˈfrɑsvɪ\ntrumpet : n = θɛrr\ntrunk (large box) : n = ˈtɪrɪn\ntrust : v = rɛɪ̯ˑl\ntry, attempt, strive, struggle, wrestle : v = oʊ̯ˈkɪt\ntub, basin, valley : n = bɛnr\ntuition : n = frɑr\ntumble, topple : v = ɪˈdə\ntuna : n = oʊ̯tr\ntunnel : n = skən\nturmoil : n = vɪrn\nturn on : v = vun\nturn, wind, twist : v = də˞r\nturtle : n = tɪlls\ntusk : n = hvi\ntwin : n = ufsˈblɑ\ntwo : num = nɛ\nugly, awful, terrible : adj = læ\numbrella : n = rɔs\nuncle : n = hoʊ̯mr\nunder, below : prep = krɪ\nunderstand, realize, comprehend, fathom, grasp, clutch, grip : v = ˈsləlbi\nunderwear : n = ɛˈlʊch\nuniform : n = nɛɪ̯ˑ\nunit : n = rʼraˈgɪgr\nuniverse : n = pɪ\nuniversity : n = fik\nunless : conj = gɪrmr\nuntil : conj = blu\nup : adv = ɛ\nupdate : n = hɛdh\nupon : prep = gutr\nupset : v = stɪng\nurge : n = gry\nurgent : adj = ˈslɛɪ̯ˑlnoʊ̯\nurine : n = skʊ\nuse, utilize, employ, exert, exploit : v = chə\nusher : n = ɛɪ̯ˑgr\nusual : adj = hoʊ̯\nvacant : adj = hljɛl\nvagina : n = im\nvague, ambiguous, fuzzy : adj = dɛrn\nvalley, canyon : n = geɪ̯l\nvalue : v = saɪ̯\nvalve : n = bɛl\nvampire : n = hlɪr\nvanilla : n = vɔtr\nvanish, disappear : v = ˈsveɪ̯ər\nvarious : adj = vən\nvary, differ : v = ˈnoʊ̯rɛl\nvase, urn : n = eɪ̯tr\nvegetable : n = pɑ\nvehicle : n = ɛɪ̯ˑm\nvein : n = lɪldr\nvelocity : n = ˈoʊ̯rdɛ\nvelvet : n = vyrθ\nvenom : n = kvunr\nvent : n = hɛˈtæm\nvenue : n = θuˈmɪ\nverge : n = kvɛrn\nversion : n = kə˞m\nversus : prep = loʊ̯ˈhʊ\nvertical : adj = dwɛn\nvest : n = ˈoʊ̯kroʊ̯ldr\nveteran : n = vunr\nviable : adj = ɔdhr\nvibrant : adj = rɛfr\nvicious, cruel : adj = ˈurgɛs\nview, opinion : n = ˈθufɛɪ̯ˑl\nvillage, suburb : n = ˈskəndɪ\nvindicate : v = ˈsvɪlju\nvine, flower : n = bər\nvinegar : n = rəlls\nviolence : n = ɪhr\nviolin : n = kə˞n\nvirgin : n = ləˈlu\nvirus, germ : n = ˈfɑtlɑ\nvision : n = sjɑx\nvisit, attend, show up : v = soʊ̯ˈhoʊ̯\nvocabulary : n = ˈvinvɛ\nvolatile : adj = ˈəmu\nvolcano : n = vas\nvolume : n = druθ\nvolunteer, enlist : v = skul\nvomit : v = kirt\nvote : v = unˈdu\nvow, swear : v = lɛp\nvulture : n = dɛgr\nwage, salary : n = bjoʊ̯n\nwaist, midriff : n = hɪˈtu\nwait, stay, remain, linger : v = un\nwake, wake up, get up : v = mɛl\nwalk : v = tɪ\nwall : n = wɛɪ̯ˑ\nwander : v = koʊ̯ngr\nwant, crave, lack : v = mɛrn\nwar : n = lɛfr\nward : n = hweɪ̯\nwarm : adj = ˈchoʊ̯ljə˞ng\nwarn : v = lɪmr\nwarrant : n = hroʊ̯rd\nwary : adj = sva\nwash, rinse : v = ˈdɛɪ̯ˑssɪmbr\nwaste : v = ˈbɪnknu\nwatch, look, monitor, spectate, follow, stare : v = keɪ̯\nwater : n = drɛ\nwax : n = ˈgəskɪ\nway, process, course : n = eɪ̯htr\nweak : adj = hɔrd\nwealth : n = ˈɛgreɪ̯l\nweapon : n = θoʊ̯\nwear, put on : v = rɛdhr\nweather, climate : n = slu\nweave : v = huptr\nweb : n = shɔ\nwedding : n = skun\nwedge : n = rəm\nweek : n = ni\nweight : n = bən\nweird, strange, bizarre, peculiar : adj = piu̯\nwelcome : interj = shæst\nwell : adv = ræˈtæn\nwell : interj = slə˞\nwell, reservoir : n = kurst\nwest : n = lɪˈly\nwet, damp, moist : adj = hoʊ̯θ\nwhat : det = hljɪmbr\nwhatever : det = θiθ\nwheel : n = vart\nwhen : conj = vɛngr\nwhere : adv = θy\nwhether : conj = ti\nwhich : det = gɛ\nwhile : conj = kugr\nwhip : n = nɪm\nwhisker : n = ɛldr\nwhiskey, liquor : n = grɛr\nwhisper, murmur, mumble, hum : v = ˈmoʊ̯lbɪ\nwhistle, hiss : v = dɔ\nwhite, blank, clear, transparent, plain : adj = mɛɪ̯ˑl\nwho : pron = deɪ̯\nwhole, entire : adj = frə\nwhose : det = ˈveɪ̯rnɛ\nwhy : adv = kiˈnɑr\nwidow : n = bloʊ̯\nwife : n = θrɛlpr\nwiggle : v = svɔdh\nwild : adj = θynd\nwildlife : n = kvɪmr\nwill : n = brʌdr\nwin : v = ˈmagnəl\nwind : v = vɪndr\nwind, breeze : n = murmr\nwindow, nostril : n = rɪr\nwine : n = frɛx\nwing : n = ˈvətʌŋr\nwink : v = drɪn\nwipe : v = vʌl\nwire, thread : n = nɛm\nwish : v = ˈθʌstɪ\nwit : n = lɛf\nwitch, prophet : n = flɔs\nwith (accompanied by) : prep = hən\nwith (using) : prep = gə\nwithdraw, take out, extract, pluck : v = θɪkr\nwithout : prep = lɛ\nwitness : n = hlu\nwoman, wife : n = bju\nwonder : v = moʊ̯ˈfrɪ\nwood, pole, beam : n = skæ\nwool, fur : n = vɪˈrəs\nword : n = vɔ\nwork : v = uˈkæll\nworld, sphere : n = ˈsɑlfɛ\nworm : n = sɛlgr\nworry : v = ɑnd\nworth : adj = ˈhjɛntoʊ̯n\nwould : v = roʊ̯x\nwound, trauma : n = hwɪ\nwrap, fold, muffle : v = vulhr\nwreck, ruin : v = fral\nwrinkle, crease, kink (sharp twist) : n = suld\nwrite : v = rɪ\nwrong : adj = hjərn\nyear : n = vɛˈbə\nyellow, orange, brown : adj = ərst\nyes : interj = blɛm\nyesterday : adv = θurθr\nyet : adv = kə\nyogurt : n = gɪrˈvɛmɪ\nyouth : n = loʊ̯\nzero : num = svɛ\nzombie : n = ˈdənɛɪ̯ˑm\nzoo : n = brʌ"
+    },
+    "derivedWords": {
+        "value": "clean : v = clean:adj\nwork : n = work-ACT.OF\nchange : n = change-ACT.OF\nuse : n = use:v\ncare : n = care:v\nreport : n = report:v\nneed : n = need:v\nsupport : n = support:v\nplan : v = plan:n\nanswer : n = answer:v\nnational : adj = nation-RELATING.TO\ncultural : adj = culture-RELATING.TO\nstudy : n = study:v\nfashionable : adj = fashion-HAVING.QUALITY.OF\ncivilized : adj = civilization-HAVING.QUALITY.OF\nlawyer : n = law-DOER\nworker, employee : n = work-DOER\nchef, cook : n = cook-DOER\nauthor, writer : n = write-DOER\nfriendly : adj = friend-HAVING.QUALITY.OF\nthought : n = think-ACT.OF\nknow (a fact) : v = knowledge-NOUN.TO.VERB\nviolent : adj = violence-HAVING.QUALITY.OF\nteacher : n = school-DOER\nyoung : adj = youth-HAVING.QUALITY.OF\nsickness : n = sick-QUALITY.OF.BEING\nbeauty : n = beautiful-QUALITY.OF.BEING\ngovern : v = government-NOUN.TO.VERB\nbelief : n = believe-ACT.OF\nlength : n = long-QUALITY.OF.BEING\nservice : n = serve-ACT.OF\npowerful : adj = power-HAVING.QUALITY.OF\nlover : n = love-DOER\nmeet : v = meeting-NOUN.TO.VERB\nurban : adj = city-HAVING.QUALITY.OF\nhealth : n = healthy-QUALITY.OF.BEING\nhunter : n = hunt-DOER\nwarrior : n = war-DOER\nopening : n = open-PRODUCT.OF\nmemory : n = remember-ACT.OF\ndeath : n = die-ACT.OF\ndead : adj = die-RESULT.OF.DOING\nkiller : n = kill-DOER\nvendor : n = sell-DOER\nsale : n = sell-ACT.OF\ndevelopment : n = develop-ACT.OF\neconomic : adj = economy-RELATING.TO\nstrength : n = strong-QUALITY.OF.BEING\npossibility : n = possible-QUALITY.OF.BEING\ndecision : n = decide-ACT.OF\ndriver : n = drive-DOER\ntruth : n = true-QUALITY.OF.BEING\ndifference : n = different-QUALITY.OF.BEING\nagreement : n = agree-ACT.OF\ncentral : adj = center-HAVING.QUALITY.OF\nlucky : adj = luck-HAVING.QUALITY.OF\nindustrial : adj = industry-RELATING.TO\ncost : n = cost:v\nexpensive : adj = cost:n-HAVING.QUALITY.OF\ndescription : n = describe-ACT.OF\nsuggestion : n = suggest-ACT.OF\npersonal : adj = person-RELATING.TO\nsimply : adv = simple-ADVERB\nchoice : n = choose-ACT.OF\ndefense : n = defend-ACT.OF\nbehavior : n = behave-ACT.OF\nquickly : adv = quick-ADVERB\nforeigner : n = foreign-QUALITY.OF.BEING\nrecently : adv = recent-ADVERB\nusually : adv = usual-ADVERB\nmovement, motion : n = move-ACT.OF\nartist : n = art-DOER\nrespond : v = response-NOUN.TO.VERB\ntreatment : n = treat-ACT.OF\nprotection : n = protect-ACT.OF\nsadness : n = sad-QUALITY.OF.BEING\nhappiness : n = happy-QUALITY.OF.BEING\npreparation : n = prepare-ACT.OF\nsuccessful : adj = success-HAVING.QUALITY.OF\nargument : n = argue-ACT.OF\nability : n = able-QUALITY.OF.BEING\nrecognition : n = recognize-ACT.OF\ngrow : v = growth-NOUN.TO.VERB\nlose : v = loss-NOUN.TO.VERB\nreligious : adj = religion-RELATING.TO\ntraining : n = train-ACT.OF\nelection : n = elect-ACT.OF\nfailure : n = fail-ACT.OF\nanalysis : n = analyze-ACT.OF\narrival : n = arrive-ACT.OF\nskilled : adj = skill-HAVING.QUALITY.OF\nthief : n = steal-DOER\nclearly : adv = clear-ADVERB\ndiscussion : n = discuss-ACT.OF\nheat : n = hot-QUALITY.OF.BEING\nproof : n = prove-ACT.OF\nlegal : adj = law-RELATING.TO\nfinal : adj = finish-RESULT.OF.DOING\nfarmer : n = farm-DOER\nscientist : n = science-DOER\nvisitor : n = visit:v-DOER\nvisit : n = visit:v\nspelling : n = spell-ACT.OF\npainful : adj = pain-HAVING.QUALITY.OF\nwidth : n = wide-QUALITY.OF.BEING\nheight : n = high-QUALITY.OF.BEING\nflight : n = fly-ACT.OF\npolitician : n = politics-DOER\npolitical : adj = politics-RELATING.TO\nweigh : v = weight-NOUN.TO.VERB\nsuddenly : adv = sudden-ADVERB\ndiscovery : n = discover-ACT.OF\ndistant : adj = distance-HAVING.QUALITY.OF\ngolden : adj = gold-HAVING.QUALITY.OF\ndivision : n = divide-ACT.OF\npoet : n = poem-DOER\ndirty : adj = dirt-HAVING.QUALITY.OF\nbroken : adj = break-RESULT.OF.DOING\naccompany : v = company-NOUN.TO.VERB\ndarkness : n = dark-QUALITY.OF.BEING\nnatural : adj = nature-RELATING.TO\ndestruction : n = destroy-ACT.OF\nanger : n = angry-QUALITY.OF.BEING\nsexual : adj = sex:n-HAVING.QUALITY.OF\nhomosexual : n = sexual same\nrunner : n = run-DOER\nflorist : n = flower-DOER\ngreedy : adj = greed-HAVING.QUALITY.OF\nsettlement : n = settle-ACT.OF\nsailor : n = boat-DOER\nfeeling : n = feel-ACT.OF\ndancer : n = dance-DOER\nsing : v = song-NOUN.TO.VERB\nsinger : n = song-DOER\nfertility : n = fertile-QUALITY.OF.BEING\nsubtlety : n = subtle-QUALITY.OF.BEING\nironic : adj = irony-HAVING.QUALITY.OF\noral : adj = mouth-RELATING.TO\nanxiety : n = anxious-QUALITY.OF.BEING\npsychology : n = science mind\npsychologist : n = psychology-DOER\nexcitement : n = excite-ACT.OF\nrisky : adj = risk-HAVING.QUALITY.OF\ndangerous : adj = danger-HAVING.QUALITY.OF\npainting : n = paint-ACT.OF\npainter : n = paint-DOER\ngardener : n = garden-DOER\ncafe : n = shop coffee\narmoury : n = weapon-PLACE.OF\nstable : n = horse-PLACE.OF\nlocksmith : n = lock-DOER\nchemist : n = drug-PLACE.OF\ngrocer : n = vegetable-PLACE.OF\ntechnological : adj = technology-RELATING.TO\nevident : adj = evidence-HAVING.QUALITY.OF\nproduce : v = product-NOUN.TO.VERB\noffensive : adj = offend-TENDING.TO\ngraveyard : n = grave-PLACE.OF\nhearing : n = hear-ACT.OF\nwinery : n = wine-PLACE.OF\npuppy : n = dog-DIM\nkitten : n = cat-DIM\nmansion : n = house-AUG\nprisoner : n = prison-DOER\nsilent : adj = silence-HAVING.QUALITY.OF\nfrost : n = freeze-PRODUCT.OF\nperfection : n = perfect-QUALITY.OF.BEING\ncareful : adj = care-TENDING.TO\npleasure : n = please-ACT.OF\nmessy : adj = mess-HAVING.QUALITY.OF\nbloody : adj = blood-HAVING.QUALITY.OF\nreflection : n = reflect-ACT.OF\nconfidence : n = confident-QUALITY.OF.BEING\ncriminal : n = crime-DOER\nmedical : adj = medicine-RELATING.TO\npride : n = proud-QUALITY.OF.BEING\nassassin : n = assassinate-DOER\ncertainly : adv = certain-ADVERB\nexactly : adv = exact-ADVERB\ncirculation : n = circulate-ACT.OF\ncompletion : n = complete-ACT.OF\nexistence : n = exist-ACT.OF\nconviction : n = convict-ACT.OF\nconquest : n = conquer-ACT.OF\neditor : n = edit-DOER\ntrader : n = trade:v-DOER\ntrade : n = trade:v\nadvertisement : n = advertise-ACT.OF\nlibrary : n = book-PLACE.OF\nnaval : adj = navy-RELATING.TO\nmanager : n = manage-DOER\nfinally : adv = final-ADVERB\nintervention : n = intervene-ACT.OF\nperception : n = perceive-ACT.OF\nrepetition : n = repeat-ACT.OF\nplayer : n = play-DOER\ndealer : n = deal-DOER\nreservation : n = reserve-ACT.OF\nreverse : v = reversal-NOUN.TO.VERB\nacademic : adj = academy-RELATING.TO\nguardian : n = guard-DOER\ninfection : n = infect-ACT.OF\nfurious : adj = fury-HAVING.QUALITY.OF\nappearance (act of appearing) : n = appear-ACT.OF\nbore : v = boring-TO.MAKE\nauthorize : v = authority-NOUN.TO.VERB\nreasonable : adj = reason-HAVING.QUALITY.OF\nlogical : adj = logic-HAVING.QUALITY.OF\nsticky : adj = stick:v-TENDING.TO\nemployer : n = employ-DOER\npreviously : adv = previous-ADVERB\nretention : n = retain-ACT.OF\nruler : n = rule-DOER\nespecially : adv = special-ADVERB\nentrance : n = enter-ACT.OF\norganization : n = organize-PRODUCT.OF\nshiny : adj = shine-TENDING.TO\ntension : n = tense:adj-QUALITY.OF.BEING\nsuspicious : adj = suspect-RESULT.OF.DOING\nvictory : n = win-ACT.OF\nprobably : adv = probable-ADVERB\nabsent : adj = absence-HAVING.QUALITY.OF\ntourist : n = tour-DOER\nmoisture : n = moist-QUALITY.OF.BEING\nbuilding : n = build-PRODUCT.OF\nemphasize : v = emphasis-NOUN.TO.VERB\nguilty : adj = guilt-HAVING.QUALITY.OF\npermission : n = allow-ACT.OF\ncriticize : v = critique-NOUN.TO.VERB\ncritical : adj = criticize-TENDING.TO\ninsurance : n = secure-PRODUCT.OF\njudge : n = judge-DOER\ncomplicate : v = complex-TO.MAKE\naction : n = act-ACT.OF\nappearance : n = look outside\ncertificate : n = certify-PRODUCT.OF\ncharacteristic : n = character-QUALITY.OF.BEING\npressure : n = push-ACT.OF\nreference : n = link\nleader : n = lead-DOER\nexam : n = test-ACT.OF\nsewer : n = flow-PLACE.OF\ninternal : adj = interior-RELATING.TO\nexplanation : n = explain-ACT.OF\ndentist : n = doctor tooth\nhospital : n = house sick\neyelid : n = lid eye\neyelash : n = hair eye\neyeball : n = apple eye\nwolf : n = dog wild\nwinter : n = season cold\nearthquake : n = shake earth\nupper class : n = class high\nlower class : n = class low\nafternoon : n = noon after\ntear : n = water eye\nmidnight : n = night half\nnotebook : n = book note\ngeography : n = science earth\ndrought : n = time dry\nlamb : n = sheep young\npopulate : v = population-NOUN.TO.VERB\ncopyright : n = right author\nprototype : n = type father\nlinguistics : n = science language\nlandlord : n = master land\nbark (of tree) : n = skin wood\nammunition : n = supply battle\ngossip : n = talk night\nsemen : n = seed life\nearring : n = ring ear\norchard : n = garden fruit\nfingerprint : n = mark finger\nlipstick : n = pen lip\nraft : n = wood float\nrainbow : n = cloud arc\nfox : n = dog red\nlayout : n = order place:n\npedestrian : n = person foot\nspine : n = bone back\ngem : n = stone precious\nremember : v = memory get\nfun : n = fun:adj-QUALITY.OF.BEING\nhate : n = hate:v\nvalue : n = value:v\njoint : n = join:v-PRODUCT.OF\nposition : n = pose:v-PRODUCT.OF\nrecord : n = record:v-PRODUCT.OF\nlife : n = live:v-PRODUCT.OF\nfat : n = fat:adj-QUALITY.OF.BEING\nhistory : n = story long\nhunger : n = hungry-QUALITY.OF.BEING\noffer : v = offer:n-NOUN.TO.VERB\ncut : n = cut:v\nexperience : n = experience:v-ACT.OF\ncontrol : n = control:v\nrate : n = rate:v\nhope : n = hope:v-ACT.OF\nclear : v = clear:adj-TO.MAKE\ndrawing : n = draw-PRODUCT.OF\ncause : n = cause:v-ACT.OF\npubic hair : n = fur sex:n\nsaliva : n = spit-PRODUCT.OF\nhint : n = hint:v-ACT.OF\ndecade : n = year ten\nhave sex : v = sex:n-NOUN.TO.VERB\nlaugh : n = laugh:v\nguess : n = guess:v\ndrink : n = drink:v\ntonight : adv = this night\nend : n = finish\nbright : adj = light-HAVING.QUALITY.OF\nreturn : n = return:v\nhelp : n = help:v\nstart, beginning : n = start:v\ntest : n = test:v\nplace : v = place:v\nfight : n = fight:v\napproach : v = close:adj-TO.MAKE\nlie : n = lie:v\nliar : n = lie:v-DOER\nsleep : n = sleep:v\ndream : v = dream:n\nfootprint : n = press foot\ncorpse : n = body dead\nyesterday : n = day past\ncomfortable : adj = comfort-HAVING.QUALITY.OF\ncrack : v = crack:n\ndamage : n = damage:v\nowner : n = own-DOER\nrelationship : n = relate-PRODUCT.OF\nrespect : n = respect:v\nsnow : v = snow:n-NOUN.TO.VERB\nhelmet : n = hat hard\ncauldron : n = pot-AUG\nmatch (for fire) : n = fire:n-DOER\nneedle : n = pierce-DOER\nsponge : n = absorb\nstamp : n = stamp:v\ntrunk (large box) : n = box-AUG\ntray : n = hold-DOER\nsoldier : n = man army\nbuxom : adj = breast-HAVING.QUALITY.OF\npotion : n = drink magic\ndelicious : adj = flavor-HAVING.QUALITY.OF\ngiggle : v = laugh:v-DIM\ncrown : n = ring glory\nmassage : v = rub press\nwizard : n = wise-DOER\ndrunk (inebriated) : adj = drink:v-RESULT.OF.DOING\nlens : n = glass through\ndown : prep = down:adv\nup : prep = up:adv\ndetention : n = detain-PRODUCT.OF\nelevation : n = elevate-PRODUCT.OF\nlong : adj = length-HAVING.QUALITY.OF\nwealth : n = rich-QUALITY.OF.BEING\nglasses : n = glass eye\nexcuse : v = excuse:n-NOUN.TO.VERB\ndrain : v = drain:n-NOUN.TO.VERB\nbleed : v = blood-NOUN.TO.VERB\nabuse : n = abuse:v-PRODUCT.OF\nresearch : v = research:n-NOUN.TO.VERB\norder : v = order"
+    },
+    "derivationalAffixes": {
+        "value": "ADVERB = Random\nQUALITY.OF.BEING = Random\nTO.MAKE = Random\nHAVING.QUALITY.OF = Random\nRELATING.TO = Random\nNOUN.TO.VERB = Random\nRESULT.OF.DOING = Random\nTENDING.TO = Random\nACT.OF = Random\nPRODUCT.OF = Random\nDOER = Random\nPLACE.OF = Random\nDIM = Random\nAUG = Random"
+    },
+    "POSmorphology": {
+        "value": "nm = -o\nnf = -a\nv = -ar"
+    },
+    "ipaLangName": {
+        "value": "bloʊ̯ch"
+    },
+    "anglicizedName": {
+        "value": "Bloúchyhi"
+    },
+    "nounGenders": {
+        "value": ""
+    },
+    "harmonyClicked": {
+        "value": "false"
+    },
+    "grammarEditor": {
+        "ops": [
+            {
+                "insert": "Nouns"
+            },
+            {
+                "attributes": {
+                    "header": 2
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "Nouns have six cases:\n"
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "Ergative"
+            },
+            {
+                "insert": " is the doer of a verb, when the verb is "
+            },
+            {
+                "attributes": {
+                    "italic": true
+                },
+                "insert": "done to something"
+            },
+            {
+                "insert": ": "
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "dog"
+            },
+            {
+                "insert": " bites man."
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "Absolutive"
+            },
+            {
+                "insert": " is used in two scenarios: the doer of a verb when not done to something ("
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "dog"
+            },
+            {
+                "insert": " bites), and the done-to of a verb (man bites "
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "dog"
+            },
+            {
+                "insert": ")."
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "Genitive"
+            },
+            {
+                "insert": " is the possessor of something: "
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "dog’s"
+            },
+            {
+                "insert": " tail hits man."
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "Dative"
+            },
+            {
+                "insert": " is the recipient of something: man gives ball "
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "to dog"
+            },
+            {
+                "insert": "."
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "Locative"
+            },
+            {
+                "insert": " is the location of something: man goes "
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "to town"
+            },
+            {
+                "insert": "."
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "Ablative"
+            },
+            {
+                "insert": " is movement away from something: man walks "
+            },
+            {
+                "attributes": {
+                    "bold": true
+                },
+                "insert": "from town"
+            },
+            {
+                "insert": "."
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "TABLE TYPE = affix"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = n"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "example-word = dog"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = ERGative, ABSolutive, GENitive, DATive, LOCative, ABLative"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "ERG ~ dog (doing the verb to something) = IF #V THEN f- ELSE fy-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS ~ dog (doing the verb, but not to something) ="
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN ~ dogʼs = dɪ-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT ~ to (the/a) dog = ɪ-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC ~ near/at/by (the/a) dog = IF #V THEN d- ELSE dɪ-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL ~ from (the/a) dog = u-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\nTABLE TYPE = affix"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = n"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "example-word = dog"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = SinGular, PLural"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "SG ~ dog ="
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "PL ~ dogs = IF #V THEN r- ELSE rɛ-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n---\nArticles"
+            },
+            {
+                "attributes": {
+                    "header": 2
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "TABLE TYPE = word"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = det"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = DEFinite, INDEFinite"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "DEF ~ the = goʊ̯rn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "INDEF ~ a, some = haɪ̯"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\nUses of definite article that differ from English:\nDefinite article can be omitted: ‘I am going to supermarket’"
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "Used to talk about countable nouns in general: English’s ‘I like cats’ would translate to ‘I like the cats’"
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "Not used for mass (uncountable) nouns: ‘Walking in the mud’ would always translate to ‘Walking in mud’."
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "Used with place names: ‘The London’"
+            },
+            {
+                "attributes": {
+                    "list": "bullet"
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "---\nPronouns"
+            },
+            {
+                "attributes": {
+                    "header": 2
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "TABLE TYPE = word"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = pron"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "cols = ERGative, ABSolutive, GENitive, DATive, LOCative, ABLative"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "rows = 1st SinGular, 2nd SinGular, 3rd SinGular Masc, 3rd SinGular Fem, 1st PLural INCLusive, 1st PLural EXCLusive, 2nd PLural, 3rd PLural"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "ERG.1.SG ~ I = blu"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ERG.2.SG ~ you = θɛt"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ERG.3.SG.M ~ he, it = kɪ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ERG.3.SG.F ~ she, it = dɛnr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ERG.1.PL.INCL ~ we (including you) = svɪ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ERG.1.PL.EXCL ~ we (excluding you) = dɛɪ̯ˑ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ERG.2.PL ~ you all = kɛn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ERG.3.PL ~ they = sɛhr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.1.SG ~ me, I = ər"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.2.SG ~ you = ɪld"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.3.SG.M ~ him, it = sɪrdh"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.3.SG.F ~ her, it = skɪn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.1.PL.INCL ~ us, we (including you) = vu"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.1.PL.EXCL ~ us, we (excluding you) = ut"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.2.PL ~ you all = bɑ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABS.3.PL ~ them, they = gɛ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.1.SG ~ mine = gɪ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.2.SG ~ yours = um"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.3.SG.M ~ his, its = kɛfr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.3.SG.F ~ hers, its = vrɪ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.1.PL.INCL ~ ours (including you) = moʊ̯"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.1.PL.EXCL ~ ours (excluding you) = ɛ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.2.PL ~ yours (pl) = tustr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "GEN.3.PL ~ theirs = hə"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.1.SG ~ to me = fy"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.2.SG ~ to you = mɛ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.3.SG.M ~ to him, at it = loʊ̯"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.3.SG.F ~ to her, at it = hoʊ̯g"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.1.PL.INCL ~ to us (including you) = wədh"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.1.PL.EXCL ~ to us (excluding you) = fɑn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.2.PL ~ to you all = nunr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "DAT.3.PL ~ to them = slɪ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.1.SG ~ at me = ɪl"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.2.SG ~ at you = ur"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.3.SG.M ~ at him, at it = tɛrtr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.3.SG.F ~ at her, at it = chy"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.1.PL.INCL ~ at us (including you) = oʊ̯m"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.1.PL.EXCL ~ at us (excluding you) = nɛrd"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.2.PL ~ at you all = roʊ̯tk"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "LOC.3.PL ~ at them = ʤɪdr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.1.SG ~ from me = hvɛs"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.2.SG ~ from you = skæ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.3.SG.M ~ from him, from it = stjɛnd"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.3.SG.F ~ from her, from it = θoʊ̯"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.1.PL.INCL ~ from us (including you) = kɛ"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.1.PL.EXCL ~ from us (excluding you) = lɪr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.2.PL ~ from you all = bru"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "ABL.3.PL ~ from them = nənr"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n---\nPossessive determiners"
+            },
+            {
+                "attributes": {
+                    "header": 2
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "TABLE TYPE = word"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = det"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = 1st SinGular, 2nd SinGular, 3rd SinGular Masc, 3rd SinGular Fem, 1st PLural INCLusive, 1st PLural EXCLusive, 2nd PLural, 3rd PLural"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "1.SG ~ my = {{mine}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "2.SG ~ your = {{yours}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "3.SG.M ~ his = {{his}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "3.SG.F ~ her = {{hers}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "1.PL.INCL ~ our (including you) = {{ours (including you)}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "1.PL.EXCL ~ our (excluding you) = {{ours (excluding you)}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "2.PL ~ your (pl) = {{yours (pl)}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "3.PL ~ their = {{theirs}}"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n---\nVerbs"
+            },
+            {
+                "attributes": {
+                    "header": 2
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "TABLE TYPE = affix"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = v"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "example-word = learn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = 1st person, 2nd person, 3rd person"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "1 ~  = tɛ-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "2 ~  = bɛ-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "3 ~  = IF #V THEN n- ELSE nu-"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n{{Langname}} uses a standalone particle word for past tense:\nTABLE TYPE = affix"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = v"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "example-word = learn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = PaST"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "PST ~ learned = ɔ -"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n{{Langname}} uses a standalone particle word for future tense:\nTABLE TYPE = affix"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = v"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "example-word = learn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = FUTure"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "FUT ~ will learn = mɛ -"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n---\n"
+            },
+            {
+                "attributes": {
+                    "size": "large"
+                },
+                "insert": "Progressive aspect"
+            },
+            {
+                "insert": "\n\nThe ‘progressive’ aspect refers to actions that are happening at the time of speaking, such as "
+            },
+            {
+                "attributes": {
+                    "italic": true
+                },
+                "insert": "I am learning"
+            },
+            {
+                "insert": ".\n\n{{Langname}} uses a standalone particle word for progressive:\nTABLE TYPE = affix"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = v"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "example-word = learn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = PROGressive"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "PROG ~ is learning = shɪkr -"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n"
+            },
+            {
+                "attributes": {
+                    "size": "large"
+                },
+                "insert": "Habitual aspect"
+            },
+            {
+                "insert": "\n\nThe ‘habitual’ aspect refers to actions that happen habitually, such as "
+            },
+            {
+                "attributes": {
+                    "italic": true
+                },
+                "insert": "I learn (something new every day)"
+            },
+            {
+                "insert": ", as opposed to actions that happen once ("
+            },
+            {
+                "attributes": {
+                    "italic": true
+                },
+                "insert": "I learned something"
+            },
+            {
+                "insert": ").\n\n{{Langname}} uses a standalone particle word for habitual:\nTABLE TYPE = affix"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "part-of-speech = v"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "example-word = learn"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "rows = HABitual"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n\n"
+            },
+            {
+                "insert": "HAB ~ learns = dɛng -"
+            },
+            {
+                "attributes": {
+                    "code-block": true
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "\n---\nNumbers"
+            },
+            {
+                "attributes": {
+                    "header": 2
+                },
+                "insert": "\n"
+            },
+            {
+                "insert": "{{Langname}} has a base-10 number system:\n\n1 - {{one:num}}\n2 - {{two}}\n3 - {{three}}\n4 - {{four}}\n5 - {{five}}\n6 - {{six}}\n7 - {{seven}}\n8 - {{eight}}\n9 - {{nine}}\n10 - {{ten}}\n11 - {{one:num}} {{and}} {{ten}} “one and ten”\n100 - {{hundred}} “hundred”\n101 - {{hundred}} {{and}} {{one:num}} “hundred and one”\n200 - {{two}} {{hundred}}\n1000 - {{thousand}} “thousand”\n"
+            }
+        ]
+    },
+    "generateNow": {
+        "value": ""
+    }
+}
