@@ -18,6 +18,10 @@ I didn't set this up to use Greek Orthography.
 - [Wikipedia Entry on Ancient Greek Phonology](https://en.wikipedia.org/wiki/Ancient_Greek_phonology)
 - [Greek Old Testament Dictionary](https://lexicon.katabiblon.com/index.php?letter=a)
 
+## The Ancient Language
+
+Based on the Ancient Language from Christopher Paolini's Inheritance Cycle. Created by [/u/The_LangSmith](https://www.reddit.com/r/VulgarLang/comments/nmlspm/preset_for_christopher_paolinis_ancient_language/).
+
 ## Atlantean
 
 This language is based on the conlang created for the Disney Film _Atlantis: The Lost Empire_. Currently the phonetics are slightly wrong because there is no way in Vulgarlang to change sounds based on the stressed syllable; the vowel sounds change from `ɔ ɪ ʊ ɘ ɜ` to `o i u a e` on stressed syllables, respectively. The lexicon is minimal so the source is a fan dictionary which uses the movies and phonetical rules as a basis for expanding the available terms.
